@@ -2,7 +2,7 @@
 ### Meeting Date/Time: Tue, February 5, 2019 14:00 UTC
 ### Meeting Duration: 1 hours
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/process/issues/1)
-### [Audio/Video of the meeting](https://github.com/ethereum-cat-herders/)
+### [Audio of the meeting](https://soundcloud.com/lane-rettig-154644600/ethereum-cat-herders-meeting-4)
 
 # Agenda
 1. Introduction of new persons
