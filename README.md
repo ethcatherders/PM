@@ -7,7 +7,7 @@ The Ethereum Cat Herder Meeting is a regularly-scheduled project management meet
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
-  4 | Tuesday, February 06, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/process/issues/1) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%204.md) | [video]() |
+  4 | Tuesday, February 06, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/process/issues/1) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%204.md) | [audio](https://soundcloud.com/lane-rettig-154644600/ethereum-cat-herders-meeting-4) |
 
 ### Who Can Attend
 Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Gitter](https://gitter.im/ethereum-cat-herders/community).
