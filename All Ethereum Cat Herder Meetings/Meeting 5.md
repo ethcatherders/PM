@@ -1,7 +1,7 @@
 # Ethereum Cat Herders Meeting 5 Notes
 ### Meeting Date/Time: Tue, February 12, 2019 14:00 UTC
 ### Meeting Duration: 40 minutes
-### [GitHub Agenda Page] (https://github.com/ethereum-cat-herders/process/issues/3)
+### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/process/issues/3)
 ### [Audio/Video of the meeting]()
 
 # Agenda
@@ -68,9 +68,9 @@ ACTION: Pooja to work on the Constantinople Post Mortem action items.
 - Hudson: What would this entail?
 - Afri: Gathering volunteers. Start in 2 to 4 weeks once Constantinople settles. If you want to help head to Github and put your hand up to help in one of the two issues created.
 
-[Hardfork Coordination Subcommittee] (https://github.com/ethereum-cat-herders/hard-fork-checklist/issues/3)
+[Hardfork Coordination Subcommittee](https://github.com/ethereum-cat-herders/hard-fork-checklist/issues/3)
 
-[EIP Monitoring Subcommittee] (https://github.com/ethereum-cat-herders/hard-fork-checklist/issues/4)
+[EIP Monitoring Subcommittee](https://github.com/ethereum-cat-herders/hard-fork-checklist/issues/4)
 
 ## 7. Preparation for Constantinople 2.0 
 ### 7.1 Communication document for Hard Forks and related activities 
