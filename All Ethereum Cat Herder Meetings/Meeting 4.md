@@ -127,7 +127,7 @@ Did not go over this in the time.
 ### 7.1 Ethereum Website
 - Lane: Ethereum Website Update on the status of the Ethereum Cat Herders taking over the management of that. Cannot promise it will happen overnight but if we build then we have a good case for control to be ported over to the ECH.
 
-## 8. Review Actions from Meeting.
+## 8. Review Actions from Meeting
 
 - ACTION 1: Subcommittee for ProgPoW
 - ACTION 2: Finish Website and Host it on Github Pages (Subcommittee: Charles, Hugo, Adam)
