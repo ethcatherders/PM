@@ -92,7 +92,7 @@ ACTION: Lane will work on combining it the various repositories under PM.
 ACTION: Hudson add Afri to managers to Ethereum Cat Herders Github.
 ACTION: Hudson will merge Pooja's work in Github. 
 
-## 8. Review Actions from Meeting.
+## 8. Review Actions from Meeting
 
 - ACTION 1: Hudson to provide update on discussion and further action required from the ProgPoW subcommittee.
 - ACTION 2: Lane to launch the Carbon vote for ProgPoW.
