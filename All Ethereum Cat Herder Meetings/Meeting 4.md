@@ -129,14 +129,14 @@ Did not go over this in the time.
 
 ## 8. Review Actions from Meeting.
 
-ACTION 1: Subcommittee for ProgPoW
-ACTION 2: Finish Website and Host it on Github Pages (Subcommittee: Charles, Hugo, Adam)
-ACTION 3: Ethereum Cat Herders Community post (how to get involved)
-ACTION 4: Action items from Post mortem (Subcommittee: Brett, Charles, Hugo, Poojaranjan)
-ACTION 5: Ethereum Developer Portal (design, details, and drafting up an MVP - pick a date)
-ACTION 6: Afri to create a subcommittee for hard fork coordination and EIPs monitoring
-ACTION 7: Clean up communication document for Hard Forks and related activities
-ACTION 7:  Charles to create Agenda for next meeting
+- ACTION 1: Subcommittee for ProgPoW
+- ACTION 2: Finish Website and Host it on Github Pages (Subcommittee: Charles, Hugo, Adam)
+- ACTION 3: Ethereum Cat Herders Community post (how to get involved)
+- ACTION 4: Action items from Post mortem (Subcommittee: Brett, Charles, Hugo, Poojaranjan)
+- ACTION 5: Ethereum Developer Portal (design, details, and drafting up an MVP - pick a date)
+- ACTION 6: Afri to create a subcommittee for hard fork coordination and EIPs monitoring
+- ACTION 7: Clean up communication document for Hard Forks and related activities
+- ACTION 7:  Charles to create Agenda for next meeting
 
 ## 9. Next Meeting: 12 February 2019
 
