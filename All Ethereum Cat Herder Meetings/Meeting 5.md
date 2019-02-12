@@ -49,7 +49,9 @@ ACTION: Lane to launch the Carbon vote for ProgPoW.
 - Brett: Launch what the Ethereum Cat Herders are about. Need final confirmation of release.
 
 ACTION: Pooja to launch her community post in reddit and medium.
+
 ACTION: Pooja to provide Lane with Medium handle to be added to Ethereum Cat Herders Medium.
+
 ACTION: Brett to launch "Further Introduction: The Ethereum Cat Herders" post in medium once confirmation is given by Lane and Hudson.
 
 
