@@ -138,7 +138,7 @@ ACTION 6: Afri to create a subcommittee for hard fork coordination and EIPs moni
 ACTION 7: Clean up communication document for Hard Forks and related activities
 ACTION 7:  Charles to create Agenda for next meeting
 
-## 9. Next Meeting: 19 February 2019
+## 9. Next Meeting: 12 February 2019
 
 
 # Attendees
