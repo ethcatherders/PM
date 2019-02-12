@@ -92,15 +92,15 @@ ACTION: Hudson will merge Pooja's work in Github.
 
 ## 8. Review Actions from Meeting.
 
-ACTION 1: Hudson to provide update on discussion and further action required from the ProgPoW subcommittee.
-ACTION 2: Lane to launch the Carbon vote for ProgPoW.
-ACTION 3: Pooja to launch her community post in reddit and medium.
-ACTION 4: Pooja to provide Lane with Medium handle to be added to Ethereum Cat Herders Medium.
-ACTION 5: Brett to launch "Further Introduction: The Ethereum Cat Herders" post in medium once confirmation is given by Lane and Hudson.
-ACTION 6: Pooja to work on the Constantinople Post Mortem action items. 
-ACTION 7: Lane will work on combining it the various repositories under PM.
-ACTION 8: Hudson add Afri to managers to Ethereum Cat Herders Github.
-ACTION 9: Hudson will merge Pooja's work in Github. 
+- ACTION 1: Hudson to provide update on discussion and further action required from the ProgPoW subcommittee.
+- ACTION 2: Lane to launch the Carbon vote for ProgPoW.
+- ACTION 3: Pooja to launch her community post in reddit and medium.
+- ACTION 4: Pooja to provide Lane with Medium handle to be added to Ethereum Cat Herders Medium.
+- ACTION 5: Brett to launch "Further Introduction: The Ethereum Cat Herders" post in medium once confirmation is given by Lane and Hudson.
+- ACTION 6: Pooja to work on the Constantinople Post Mortem action items. 
+- ACTION 7: Lane will work on combining it the various repositories under PM.
+- ACTION 8: Hudson add Afri to managers to Ethereum Cat Herders Github.
+- ACTION 9: Hudson will merge Pooja's work in Github. 
 
 ## 9. Next Meeting: 19 February 2019
 
