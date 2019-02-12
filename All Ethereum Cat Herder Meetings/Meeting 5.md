@@ -69,6 +69,7 @@ ACTION: Pooja to work on the Constantinople Post Mortem action items.
 - Afri: Gathering volunteers. Start in 2 to 4 weeks once Constantinople settles. If you want to help head to Github and put your hand up to help in one of the two issues created.
 
 [Hardfork Coordination Subcommittee] (https://github.com/ethereum-cat-herders/hard-fork-checklist/issues/3)
+
 [EIP Monitoring Subcommittee] (https://github.com/ethereum-cat-herders/hard-fork-checklist/issues/4)
 
 ## 7. Preparation for Constantinople 2.0 
