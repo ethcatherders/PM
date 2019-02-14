@@ -21,7 +21,7 @@ Moderator - Hudson Jameson
 - William: Where are they from? 
 - Hudson: Groups are the from inside crypto. Having audited crytpos and ASICS in the past.
 - William: Struggling to find an audit team to audit ProgPoW. External crypto seems prudent.
-- Hudson: Having someone with knowledge of crypto is essential. Conversation with people from S.E.A.
+- Hudson: Having someone with knowledge of crypto is essential. Conversation with people from Sia.
 - William: I am trying to decide on whether I should continue to pursue parties to do the audit.
 - Hudson: I will be able to give more details after the meeting. Just want to keep the auditors and parties involved anonymous for now.
 
