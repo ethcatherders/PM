@@ -2,7 +2,7 @@
 ### Meeting Date/Time: Tue, February 12, 2019 14:00 UTC
 ### Meeting Duration: 40 minutes
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/process/issues/3)
-### [Audio/Video of the meeting]()
+### [Audio/Video of the meeting](https://zoom.us/recording/share/5MHx9wW_akzsTK1voKBNBkIeRryGBhyt_Qle59NXw7ywIumekTziMw)
 
 # Agenda
 1. Update on the progress of the ProgPow Audit
@@ -103,7 +103,7 @@ ACTION: Hudson will merge Pooja's work in Github.
 - ACTION 3: Pooja to launch her community post in reddit and medium.
 - ACTION 4: Pooja to provide Lane with Medium handle to be added to Ethereum Cat Herders Medium.
 - ACTION 5: Brett to launch "Further Introduction: The Ethereum Cat Herders" post in medium once confirmation is given by Lane and Hudson.
-- ACTION 6: Pooja to work on the Constantinople Post Mortem action items. 
+- ACTION 6: Pooja to work with Charles on the Constantinople Post Mortem action items. 
 - ACTION 7: Lane will work on combining it the various repositories under PM.
 - ACTION 8: Hudson add Afri to managers to Ethereum Cat Herders Github.
 - ACTION 9: Hudson will merge Pooja's work in Github. 
