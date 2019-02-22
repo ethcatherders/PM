@@ -2,7 +2,7 @@
 ### Meeting Date/Time: Tue, February 19, 2019 14:00 UTC
 ### Meeting Duration: 35 minutes
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/process/issues/6)
-### [Audio/Video of the meeting]()
+### [Audio/Video of the meeting](https://zoom.us/recording/share/BpzuefJNT2N42kDKFucFbMx5OSZNnNK08tFcF82Lus6wIumekTziMw)
 
 # Agenda
 1. Update on ProgPow Audit
