@@ -15,7 +15,7 @@ The Ethereum Cat Herder Meeting is a regularly-scheduled project management meet
 Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Gitter](https://gitter.im/ethereum-cat-herders/community).
 
 ### Agenda Items
-Agendas are posted to https://github.com/ethereum-cat-herders/process/issues. Anyone is welcome to add an item to the agenda as long as it follows these guidelines:
+Agendas are posted to https://github.com/ethereum-cat-herders/PM/issues. Anyone is welcome to add an item to the agenda as long as it follows these guidelines:
 - The topic is specific to Ethereum project management
 
 ### Who Manages the Meetings
