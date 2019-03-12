@@ -2,7 +2,7 @@
 ### Meeting Date/Time: Tue, March 12, 2019 14:00 UTC
 ### Meeting Duration: 1 hours
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/8)
-### [Audio of the meeting]()
+### [Video of the meeting](https://www.youtube.com/watch?v=Va2fdfH5lic)
 
 # Agenda
 1. Constantinople Go Live
