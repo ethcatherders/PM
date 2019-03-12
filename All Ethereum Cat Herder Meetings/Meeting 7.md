@@ -88,7 +88,6 @@ ACTION: Cat Herders to look the Handbook proposed by Luke Schoen and discuss ove
 - ACTION 6.6: Chris to continue to work on Aragon DAO for ECH to manage funding. - COMPLETE
 - ACTION 6.8: Pooja to set up a Telegram group for the Constantinople Delay ACTION ITEMS subcommittee. - COMPLETE
 
-
 - ACTION 6.3: ProgPoW subcommitte to review feedback from stakeholders to see if anything should be included in technical audit. - ON GOING
 - ACTION 6.4: Joseph to post the updated communications checklist to the ECH internal gitter channel. - ON GOING
 - ACTION 6.7: Hugo & Joseph to work together to write up a general overview of how Moloch DAO might benefit the Ethereum Community. - ON GOING
