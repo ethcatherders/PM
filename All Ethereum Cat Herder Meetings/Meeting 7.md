@@ -82,16 +82,16 @@ ACTION: Cat Herders to look the Handbook proposed by Luke Schoen and discuss ove
 - Lane: Hudson and I met the developer team working on it. Still managed internally and will be opened up very soon. Not sure if it is Foundation specific or the community. Hope the latter. This should be a relatively open process. Will keep 
 
  Review Actions from Meeting #6
-- ACTION 1: Hudson to coordinate setting up of Bounties and Gitcoin funding for ProgPoW audit. - COMPLETE
-- ACTION 2: William and Hudson to engage with Least Authority via call. - COMPLETE
-- ACTION 5: Hudson to review Ethereum Cat Herders draft before Brett posts to Medium. - COMPLETE
-- ACTION 6: Chris to continue to work on Aragon DAO for ECH to manage funding. - COMPLETE
-- ACTION 8: Pooja to set up a Telegram group for the Constantinople Delay ACTION ITEMS subcommittee. - COMPLETE
+- ACTION 6.1: Hudson to coordinate setting up of Bounties and Gitcoin funding for ProgPoW audit. - COMPLETE
+- ACTION 6.2: William and Hudson to engage with Least Authority via call. - COMPLETE
+- ACTION 6.5: Hudson to review Ethereum Cat Herders draft before Brett posts to Medium. - COMPLETE
+- ACTION 6.6: Chris to continue to work on Aragon DAO for ECH to manage funding. - COMPLETE
+- ACTION 6.8: Pooja to set up a Telegram group for the Constantinople Delay ACTION ITEMS subcommittee. - COMPLETE
 
 
-- ACTION 3: ProgPoW subcommitte to review feedback from stakeholders to see if anything should be included in technical audit. - ON GOING
-- ACTION 4: Joseph to post the updated communications checklist to the ECH internal gitter channel. - ON GOING
-- ACTION 7: Hugo & Joseph to work together to write up a general overview of how Moloch DAO might benefit the Ethereum Community. - ON GOING
+- ACTION 6.3: ProgPoW subcommitte to review feedback from stakeholders to see if anything should be included in technical audit. - ON GOING
+- ACTION 6.4: Joseph to post the updated communications checklist to the ECH internal gitter channel. - ON GOING
+- ACTION 6.7: Hugo & Joseph to work together to write up a general overview of how Moloch DAO might benefit the Ethereum Community. - ON GOING
 
 ## 9. Next Meeting: 26 March 2019 at 2pm UTC.
 
