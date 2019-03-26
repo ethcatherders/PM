@@ -2,7 +2,7 @@
  
 [EIP 1679](https://eips.ethereum.org/EIPS/eip-1679) is created as the **Istanbul Hardfork** tracking **Meta EIP** .
 
-Below is the list of EIPs proposed so far. We are going to update its status from "Under Considerstion" to "Accepted" or "Rejected" for the Istanbul upgrade as it is decicided by the Core Devs.
+Below is the list of EIPs proposed so far. We are going to update its status from "Proposed" -->  "Under Considerstion" --> "Accepted" or "Rejected" for the Istanbul upgrade based on the decision taken by the Core Devs.
  
 
  №  | EIP  |	Description	| Status |	Client Implementation |	Testnet |	Include in Istanbul HF |        
