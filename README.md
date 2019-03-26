@@ -11,7 +11,8 @@ The Ethereum Cat Herder Meeting is a regularly-scheduled project management meet
   4 | Tuesday, February 06, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/1) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%204.md) | [video](https://www.youtube.com/watch?v=1idlBHNGzqA) |
   5 | Tuesday, February 12, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/3) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%205.md) | [video](https://www.youtube.com/watch?v=tBnDcnAbdYo) |
   6 | Tuesday, February 19, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/6) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%206.md) | [video](https://www.youtube.com/watch?v=TcWY8vmdh-k) |
-  7 | Tuesday, March 13, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/8) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%207.md) | [video](https://www.youtube.com/watch?v=Va2fdfH5lic) |
+  7 | Tuesday, March 12, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/8) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%207.md) | [video](https://www.youtube.com/watch?v=Va2fdfH5lic) |
+  8 | Tuesday, March 26, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/16) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%208.md) | [video](https://www.youtube.com/watch?v=xLR5V0DGZxE) |
     
 ### Who Can Attend
 Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Gitter](https://gitter.im/ethereum-cat-herders/community).
