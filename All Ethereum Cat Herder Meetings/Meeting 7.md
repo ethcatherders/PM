@@ -39,7 +39,7 @@ ACTION: Identify if this is the new Gitcoin grant for the Whiteblock audit
 - Tim: EIP be conditional on the audit? If it passes then implement. If it is fails then pull the EIP.
 - Lane: Time wise we can propose this. All Core Devs would need to make this decision.
 
-ACTION: Tim Beiko: Add comment to the All Core Devs Agenda. Lane to assist with making it an agenda item.
+ACTION: Tim Beiko: Add comment to the All Core Devs Agenda regarding tentatively adding the ProgPoW EIP into Instanbul pending audit. Lane to assist with making it an agenda item.
 
 ## 3. Hardfork Coordination
 - Brett: ECH is looking to get the wheel moving for Hard Fork Coordination and in this regard there will be a meeting on the 13 March 2018 to discuss the Hard Fork Coordination. This is not a public call but is more to assist with the Ethereum Cat Herders to get their head around the requirements of the task.
@@ -71,7 +71,8 @@ ACTION: Hudson to provide feedback on Hard Fork Coordinator/s.
 
 NOTE: The initial master document proposed by Pooja can be found [here](https://github.com/poojaranjan/EthCatHerders-PM/blob/master/ECH%20Master%20Document.xlsx)
 
-ACTION: Pooja will remain in charge of this action. Cat Herders to review Pooja's work and start to build this process. 
+ACTION: Pooja to manage. Cat Herders to review Pooja's initial master document to manage process flow and start to build this process. 
+ 
 
 ### 8.2 Handbook or Guidelines for the community 
 - Lane: This was proposed [here](https://github.com/ethereum-cat-herders/PM/blob/7cc3a8568f7eddb3744b182f1b560984ce3a3f86/projects/eth1.x/project-admin/project-management/MANAGEMENT_PLAN.md)
@@ -99,11 +100,11 @@ ACTION: Cat Herders to look the Handbook proposed by Luke Schoen and discuss ove
 - ACTION 6.3: ProgPoW subcommitte to review feedback from stakeholders to see if anything should be included in technical audit.
 - ACTION 6.4: Joseph to post the updated communications checklist to the ECH internal gitter channel.
 - ACTION 6.7: Hugo & Joseph to work together to write up a general overview of how Moloch DAO might benefit the Ethereum Community. 
-- ACTION 7.1: Identify if this is the new Gitcoin grant for the Whiteblock audit
-- ACTION 7.2: Tim Beiko: Add comment to the All Core Devs Agenda. Lane to assist with making it an agenda item.
+- ACTION 7.1: Identify if the new Gitcoin grant was for the Whiteblock audit
+- ACTION 7.2: Tim Beiko: Add comment to the All Core Devs Agenda regarding tentatively adding the ProgPoW EIP into Instanbul pending audit. Lane to assist with making it an agenda item.
 - ACTION 7.3: Hudson to provide feedback on Hard Fork Coordinator/s.
-- ACTION 7.4: Pooja will remain in charge of this action. Cat Herders to review Pooja's work and start to build this process. 
-- ACTION 7.5: Cat Herders to look the Handbook proposed by Luke Schoen and discuss over the next couple weeks.
+- ACTION 7.4: Pooja to manage. Cat Herders to review Pooja's initial master document to manage process flow and start to build this process - [here](https://github.com/poojaranjan/EthCatHerders-PM/blob/master/ECH%20Master%20Document.xlsx).
+- ACTION 7.5: Cat Herders to look the Handbook proposed by Luke Schoen and discuss over the next couple weeks - [here](https://github.com/ethereum-cat-herders/PM/blob/7cc3a8568f7eddb3744b182f1b560984ce3a3f86/projects/eth1.x/project-admin/project-management/MANAGEMENT_PLAN.md).
 
 # Attendees
 - Lane Rettig
