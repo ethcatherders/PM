@@ -117,7 +117,7 @@ Pooja: Website need to be updated. New hardfork, gitter link.
 
 - ACTION 8.6: Pooja to engage with Charles and Hugo regarding the website.
 
-### 11.2 Communication of All Core Devs Calls.
+### 11.2 [Communicating about all core devs](https://github.com/ethereum-cat-herders/PM/issues/16#issuecomment-476645408)
 
 Tim: How to share the updates from the Core Dev.
 Maria: Agree a summary. Keep it in Ethereum Magicians.
