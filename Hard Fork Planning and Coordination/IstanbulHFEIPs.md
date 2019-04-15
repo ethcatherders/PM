@@ -2,7 +2,7 @@
  
 [EIP 1679](https://eips.ethereum.org/EIPS/eip-1679) is created as the **Istanbul Hardfork** tracking **Meta EIP** .
 
-Below is the list of EIPs proposed so far. We are going to update its status from "Proposed" -->  "Under Considerstion" --> "Accepted" or "Rejected" for the Istanbul upgrade based on the decision taken by the Core Devs.
+Below is the list of EIPs proposed so far. We are going to update its status from "Proposed" -->  "Under Consideration" --> "Accepted" or "Rejected" for the Istanbul upgrade based on the decision taken by the Core Devs.
  
 
  №  | EIP  |	Description	| Status |	Client Implementation |	Testnet |	Include in Istanbul HF |        
@@ -15,3 +15,4 @@ Below is the list of EIPs proposed so far. We are going to update its status fro
 | 6 |[EIP 665](https://eips.ethereum.org/EIPS/eip-665) | Add precompiled contract for Ed25519 signature verification | Proposed | NA|NA|NA|
 | 7 |[EIP 152](https://github.com/ethereum/EIPs/issues/152) | BLAKE2b `F` Compression Function Precompile  |Proposed | NA|NA|NA|
 | 8 |[EIP 1344](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1344.md) | ChainID opcode | Proposed | NA|NA|NA| 
+| 9 |[EIP 1890](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1890.md) | Commitment to Sustainable Ecosystem Funding | Proposed | NA|NA|NA| 
