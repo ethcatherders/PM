@@ -57,7 +57,7 @@ Brett/Charles: Agreed.
 
 ## 5. Update on the Ethereum Development Portal designs/structure
 
-Charles: Document of what we want has the general content and structure. I spoke with Josh regarding the ethereum.org website. No overlap and would be a great resource. So got the green light. Nina (Play Dai Ethereum), Anthony (Ethhub) for content, James Young (Moloch). We will start working on it - there are no timeframes but will get into it.
+Charles: Document of what we want has the general content and structure. I spoke with Josh regarding the ethereum.org website. No overlap and would be a great resource. So got the green light. Nina Breznik (play.ethereum.org), Anthony Sassano (Ethhub) for content, James Young (Moloch). We will start working on it - there are no timeframes but will get into it.
 
 ## 6. Any Other Business:
 
