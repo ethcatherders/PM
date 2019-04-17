@@ -2,7 +2,7 @@
 ### Meeting Date/Time: Tue, April 16, 2019 14:00 UTC
 ### Meeting Duration: 30 minutes
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/38)
-### [Video of the meeting](https://zoom.us/recording/share/ZBc_GThBhTh5BP2CuQhFLH6QnYj2XaZ8RweK1AzFClWwIumekTziMw)
+### [Video of the meeting](https://youtu.be/G_sSBg7_g0U)
 
 1. Update on ProgPow Audit 
 1. Hard Fork Coordination Update
