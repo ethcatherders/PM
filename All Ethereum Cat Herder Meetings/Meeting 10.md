@@ -17,7 +17,7 @@ Moderator: Brett Robertson
 
 ## 1. Update on ProgPow Audit
 
-Charles: Proposal for the audit and the funds are coming in. Hudson spoke with Least Authority to look at scope. They are focused on security and contracts. They are looking at hardware requirements.
+Charles: Hudson and I spoke with Least Authority last week to confirm the scope and other requirements such as hardware, security, contracts, etc. Since then the proposal for the audit has been updated according to new requirements and the funds have begun to flow in. We will make an announcement once the audit has started with a blog post covering all the details. 
 
 ## 2. Hard Fork Coordination Update
 
