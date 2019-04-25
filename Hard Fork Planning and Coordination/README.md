@@ -11,15 +11,20 @@ The goal is to define a standard process for Istanbul and future upgrades which 
 ## Istanbul Hard Fork 
 
 * [EIP-1679](https://eips.ethereum.org/EIPS/eip-1679)  - Meta EIP 
-* Proposed EIPs - Need to be PR'd into the 1679, see the wiki link for now
 
+### How to propose EIP for Istanbul?
+Create a new issue at [ECH](https://github.com/ethereum-cat-herders/PM/issues) repository referring "EIP# to be considered for next upgrade (Meta EIP#)", before the [deadline](https://github.com/ethereum-cat-herders/PM/milestone/2)  May 17, 2019 for acceptance of proposals. Refer [EIP 1929](https://github.com/ethereum/EIPs/blob/16e64a488cd16403b884417799074aae77be41ab/EIPsForHardfork.md) for process flow.
 
 ## Trackers
 
 ### For [Istanbul](https://en.ethereum.wiki/roadmap/istanbul) Planned Ethereum Network Upgrade
 
-* Istanbul Hardfork [Client Progress Tracker](https://en.ethereum.wiki/roadmap/istanbul/tracker)
+* [Milestones](https://github.com/ethereum-cat-herders/PM/milestones)
+* [Project board](https://github.com/orgs/ethereum-cat-herders/projects/2)
+* [Proposed EIPs](https://github.com/ethereum-cat-herders/PM/blob/master/Hard%20Fork%20Planning%20and%20Coordination/IstanbulHFEIPs.md) 
+* [Client Progress Tracker](https://en.ethereum.wiki/roadmap/istanbul/tracker)
 * **ECH Action Item Tracker**
+    *  Need to be PR'd into the 1679.
     * [EEP-5](https://ethereum-magicians.org/t/eep-5-ethereum-hardfork-process-request-for-collaboration/2305) merged with [EIP233](https://eips.ethereum.org/EIPS/eip-233) 
     * Document Process for [Core EIP Proposal #19](https://github.com/ethereum-cat-herders/PM/issues/19)
 
