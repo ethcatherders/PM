@@ -16,4 +16,4 @@ Below is the list of EIPs proposed so far. We are going to update its status fro
 | 7 |[EIP 152](https://github.com/ethereum/EIPs/issues/152) | BLAKE2b `F` Compression Function Precompile  |Proposed | NA|NA|NA|
 | 8 |[EIP 1344](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1344.md) | ChainID opcode | Proposed | NA|NA|NA| 
 | 9 |[EIP 1890](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1890.md) | Commitment to Sustainable Ecosystem Funding | Proposed | NA|NA|NA| 
-| 10 |[EIP 1702](https://eips.ethereum.org/EIPS/eip-1702) | Generalized Account Versioning Scheme | Proposed | Na | Na | Na |
+| 10 |[EIP 1702](https://eips.ethereum.org/EIPS/eip-1702) | Generalized Account Versioning Scheme | Proposed | NA | NA | NA |
