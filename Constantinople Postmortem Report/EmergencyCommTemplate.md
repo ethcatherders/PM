@@ -29,4 +29,9 @@ Detailed message explaining the purpose of this communication, plan and answers 
  <tentative date / time>
 
 ## Preferred / appropriate channel of communication
-Most appropriate form of contact  - a newsletter, press release, website, reddit / medium / twitter / website / gitter or any other medium.
+
+* Best way to share communication regarding Ethereum is [Ethereum Blog](https://blog.ethereum.org).
+* Fastest way of communication is [Twitter](https://twitter.com/ethereum) and then follows [ECH Medium](https://medium.com/ethereum-cat-herders).
+* [EthMagician](https://ethereum-magicians.org) - for discussion. It is vital as it is the centre of discussion for major changes / process improvements of Ethereum blockchain for contributors (developers) and also easy to refer the conversation in future.
+* [ACD Gitter](https://gitter.im/ethereum/AllCoreDevs) - Good for discussion with limited users but will not be good to refer in future.
+* [Reddit](https://www.reddit.com/r/ethereum/) - For users and community to know as we have wide users available there than the Gitter channel.
