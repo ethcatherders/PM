@@ -25,7 +25,7 @@ Moderator: Tim Beiko
 
 ## MEETING ACTIONS
 
-- ACTION 11.1: Cat Herders to review the [document](https://github.com/orgs/ethereum-cat-herders/projects/1#card-17394481) created by Pooja.
+- ACTION 11.1: Cat Herders to review the [document](https://github.com/poojaranjan/PM/blob/master/Constantinople%20Postmortem%20Report/EmergencyCommTemplate.md) created by Pooja.
 - ACTION 11.2: Open the Constantinople Post Mortem Action Items up to the community and let them know we are looking for assistance in completing them.
 - ACTION 11.3: Setup a call with the Ethereum Development Portal stakeholders.
 - ACTION 11.4: Update the website to remove redundant data for the last Ethereum Network upgrade and point to Istanbul link.
@@ -53,7 +53,7 @@ Brett: No further discussion in the Gitter Channel so no further update.
 
 ## 4. Updates on the action items from Constantinople post-mortem
 
-Charles: Pooja is working on the emergency comms udpate. She has submitted a [document](https://github.com/orgs/ethereum-cat-herders/projects/1#card-17394481) and this being reviewed by Charles. Others can also review. We would also like to open the remaining action items up this to the wider ECH community.
+Charles: Pooja is working on the emergency comms udpate. She has submitted a [document](https://github.com/poojaranjan/PM/blob/master/Constantinople%20Postmortem%20Report/EmergencyCommTemplate.md) and this being reviewed by Charles. Others can also review. We would also like to open the remaining action items up this to the wider ECH community.
 
 Pooja: This has been mentioned in the Community News Letter that some help is required here. There are six outstanding action items.
 
