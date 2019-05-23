@@ -2,7 +2,7 @@
 ### Meeting Date/Time: Tue, May 21, 2019 14:00 UTC
 ### Meeting Duration: 35 minutes
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/67)
-### [Video of the meeting]()
+### [Video of the meeting](https://youtu.be/vAn9emJGgtk)
 
 1. Ethereum Cat Herder Meeting Invites
 1. Update on ProgPow Audit
