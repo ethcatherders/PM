@@ -26,14 +26,12 @@ Below is the list of EIPs proposed so far. We are going to update its status fro
 | 17 |[EIP 1930](https://eips.ethereum.org/EIPS/eip-1930)| CALLs with strict gas semantic. Revert if not enough gas available. | Proposed | NA|NA|NA|
 | 18 |[EIP 1985](https://eips.ethereum.org/EIPS/eip-1985)| Sane limits for certain EVM parameters | Proposed | NA|NA|NA|
 | 19 |[EIP 1959](https://eips.ethereum.org/EIPS/eip-1959)| New Opcode to check if a chainID is part of the history of chainIDs | Proposed | NA|NA|NA|
-| 20 |[EIP-1962](https://eips.ethereum.org/EIPS/eip-1962)|EC arithmetic and pairings with runtime definitions
-  - replaces EIP-1829  | Proposed | NA|NA|NA|
+| 20 |[EIP-1962](https://eips.ethereum.org/EIPS/eip-1962)|EC arithmetic and pairings with runtime definitions, replaces EIP-1829  | Proposed | NA|NA|NA|
 | 21 |[EIP-2014](https://eips.ethereum.org/EIPS/eip-2014)| Extended State Oracle | Proposed | NA|NA|NA|
 | 22 |[EIP-2026](https://eips.ethereum.org/EIPS/eip-2026)| State Rent H - Fixed Prepayment for accounts | Proposed | NA|NA|NA|
 | 23 |[EIP-2027](https://eips.ethereum.org/EIPS/eip-2027)| State Rent C - Net contract size accounting | Proposed | NA|NA|NA|
 | 24 |[EIP-2028](https://eips.ethereum.org/EIPS/eip-2028)| Calldata gas cost reduction | Proposed | NA|NA|NA|
-| 25 |[EIP-2029](https://eips.ethereum.org/EIPS/eip-2029)| State Rent A - State counters contract
-  - requirement of EIP-2031 | Proposed | NA|NA|NA|
+| 25 |[EIP-2029](https://eips.ethereum.org/EIPS/eip-2029)| State Rent A - State counters contract, requirement of EIP-2031 | Proposed | NA|NA|NA|
 | 26 |[EIP-2031](https://eips.ethereum.org/EIPS/eip-2031)| State Rent B - Net transaction counter | Proposed | NA|NA|NA|
 | 27 |[EIP-2035](https://eips.ethereum.org/EIPS/eip-2035)| Stateless Clients - Repricing SLOAD and SSTORE to pay for block proofs | Proposed | NA|NA|NA|
 | 28 |[EIP-2045](https://eips.ethereum.org/EIPS/eip-2045)| Particle gas costs for EVM opcodes | Proposed | NA|NA|NA|
