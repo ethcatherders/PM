@@ -3,6 +3,9 @@
 ### Purpose
 The Ethereum Cat Herder Meeting is a regularly-scheduled project management meeting intended to bring together experienced project managers to facilitate the [Ethereum all core devs process](https://github.com/ethereum/pm).
 
+### Issues
+If you have an issue you would like discussed and aren't sure of the best place to file it, feel free to use the [Issues tab of this repository](https://github.com/ethereum-cat-herders/PM/issues). Cat Herders will review it and bring it up in a meeting if needed.  
+
 ### Previous Meetings
 
  №  | Date                             | Notes          | Recording            |
