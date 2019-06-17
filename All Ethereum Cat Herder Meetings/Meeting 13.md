@@ -26,7 +26,7 @@ Moderator: Hudson Jameson
 
 ## 1. Update on ProgPow Audit
 
-Hudson: 
+**Brett:** 
 
 ## 2. Hard Fork Coordination Update
 
