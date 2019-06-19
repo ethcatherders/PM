@@ -2,7 +2,7 @@
 ### Meeting Date/Time: Tuesday, June 11, 2019 14:00 UTC
 ### Meeting Duration:  minutes
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/71)
-### [Video of the meeting]()
+### [Video of the meeting](https://www.youtube.com/watch?v=v_UgFVVTjC8)
 
 1. Update on ProgPow Audit
 2. Hard Fork Coordination Update
