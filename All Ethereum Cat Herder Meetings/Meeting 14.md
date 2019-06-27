@@ -20,10 +20,10 @@
 1. Any Other Business
 1. Review of outstanding action items from Meeting 14
 
-Moderator: Hudson Jameson
+Moderator: Tim Beiko
 
 ## MEETING DECISIONS
-- DECISION 14.1: None
+- DECISION 14.1: Start using [ECH GitHub](https://github.com/ethereum-cat-herders/funding/issues) to track funding for Eth2.0 note taking.
 
 ## MEETING ACTIONS
 - ACTION 14.1: Double check the funding from Gitcoin.
@@ -175,6 +175,14 @@ Lane: Stuck on the accounting.
 ### 15.1 Ethereum 2.0 
 
 Brett: Those interested in getting involved in the Working Group for Ethereum 2.0 drop your names in the Gitter.
+
+Pooja: Suggest to start using [ECH GitHub](https://github.com/ethereum-cat-herders/funding/issues) to track funding for Eth2.0 note taking as well. Currently it is being used for Eth1 note taking and other ECH activities. 
+
+Tim: I think it make sense, does anyone disgree?
+
+No objection recieved.
+
+Tim: We can start tracking funding for notes taking of Eth1 and Eth2 at ECH GitHub. 
 
 ## 16. Review Actions from Meeting 11
 
