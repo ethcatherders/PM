@@ -1,24 +1,17 @@
 # Ethereum Cat Herders Meeting 15 Notes
 ### Meeting Date/Time: Tue, July 9, 2019 14:00 UTC
-### Meeting Duration: 55 minutes
-### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/75)
+### Meeting Duration: 22 minutes
+### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/80)
 ### [Video of the meeting](https://www.youtube.com/watch?v=CG9UPmq1PEk)
 
 1. Update on ProgPow Audit
 1. Hard Fork Coordination Update
 1. Updates on the action items from Constantinople post-mortem
-1. Open ECH Github [Issues](https://github.com/ethereum-cat-herders/PM/issues)
-1. Funding/accounting/multisig
-1. Funding the Ethereum 2.0 Call Notes
-1. Update on the Ethereum Development Portal designs/structure
-1. Website Design
+1. Funding/accounting/multisig 
+4.1 Update on account of ECH funding.
 1. [DevCon Workshop Proposal](https://docs.google.com/document/d/1IGPx2xGcdChUPdExWKCC5ejr8X_wIxf_NeIHmtpB5mQ/edit#)
-1. Share Account access
-1. [Issue 29](https://github.com/ethereum-cat-herders/PM/issues/29)
-1. [Issue 79](https://github.com/ethereum-cat-herders/PM/issues/79)
-1. [Issue 28](https://github.com/ethereum-cat-herders/PM/issues/28)
 1. Any Other Business
-1. Review of outstanding action items from Meeting 14
+1. Review of outstanding action items from Meeting 12
 
 Moderator: Tim Beiko
 
