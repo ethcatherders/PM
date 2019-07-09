@@ -1,5 +1,5 @@
-# Ethereum Cat Herders Meeting 14 Notes
-### Meeting Date/Time: Tue, June 25, 2019 14:00 UTC
+# Ethereum Cat Herders Meeting 15 Notes
+### Meeting Date/Time: Tue, July 9, 2019 14:00 UTC
 ### Meeting Duration: 55 minutes
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/75)
 ### [Video of the meeting](https://www.youtube.com/watch?v=CG9UPmq1PEk)
