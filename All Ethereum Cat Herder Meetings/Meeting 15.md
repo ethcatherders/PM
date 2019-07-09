@@ -8,7 +8,7 @@
 1. Hard Fork Coordination Update
 1. Updates on the action items from Constantinople post-mortem
 1. Funding/accounting/multisig 
-1.1 Update on account of ECH funding.
+- Update on account of ECH funding.
 1. [DevCon Workshop Proposal](https://docs.google.com/document/d/1IGPx2xGcdChUPdExWKCC5ejr8X_wIxf_NeIHmtpB5mQ/edit#)
 1. Any Other Business
 1. Review of outstanding action items from Meeting 12
