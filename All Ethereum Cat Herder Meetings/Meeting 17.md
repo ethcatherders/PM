@@ -76,4 +76,3 @@ Charles: Will arrange for payment once reviewed.
 - Pooja Ranjan
 - William Schwab
 - Brent Allsop
-
