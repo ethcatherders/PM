@@ -40,6 +40,10 @@ Status of EIPs proposed for Istanbul (I and II) based on the decision taken in s
 
 # Istanbul - II (Berlin)
 
+[EIP 2070](https://github.com/ethereum/EIPs/blob/148ab47f12bc45a219c6b6e88fb9ef1892009239/EIPS/eip-2070.md) is Meta for Istanbul II a.k.a Berlin.
+
+### Hard deadline to accept proposals for "Berlin" is September 20, 2019.
+
 №  | EIP  |	Description	| Status |	Discussion | Author / Champion | Client Implementation |	Testnet |	Include in Istanbul HF |        
 |---| -----|--------------|------ | ---------- | ------------ |---------------| --------|----------------------- |
 | 1 |[EIP 663](https://eips.ethereum.org/EIPS/eip-663) |  Unlimited SWAP and DUP instructions | Tentatively accepted for Istanbul - II |https://ethereum-magicians.org/t/eip-663-unlimited-swap-and-dup-instructions/3346| Alex Beregszaszi| NA|NA|NA| 
