@@ -2,7 +2,7 @@
 ### Meeting Date/Time: Tue, August 27, 2019 14:00 UTC
 ### Meeting Duration: 22 minutes
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/86)
-### [Video of the meeting](https://www.youtube.com/watch?v=TchZf72fNks&feature=youtu.be)
+### [Video of the meeting](https://www.youtube.com/watch?v=TchZf72fNks)
 
 ### Moderator: Brett Robertson
 ### Scribe: Brent Allsop
