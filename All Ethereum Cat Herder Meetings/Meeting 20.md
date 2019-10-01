@@ -4,7 +4,7 @@
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/89)
 ### [Video of the meeting](https://youtu.be/d1vun6LleVU)
 
-### Moderator: Time Beiko
+### Moderator: Tim Beiko
 ### Scribe: Brett Robertson
 
 ## MEETING DECISIONS
