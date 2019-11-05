@@ -36,7 +36,7 @@ Agendas are posted to https://github.com/ethereum-cat-herders/PM/issues. Anyone 
 - The topic is specific to Ethereum project management
 
 ### Meeting Notes Template
-Meeting notes template are available [here](https://github.com/ethereum-cat-herders/PM/blob/master/Meeting_Notes_Template.md) for reference.
+Meeting notes template is available [here](https://github.com/ethereum-cat-herders/PM/blob/master/Meeting_Notes_Template.md) for reference.
 
 ### Who Manages the Meetings
 Various contributors to the Cat Herders facilitate and record the meetings. The meetings are independent of any organization. Livestreaming instructions for the meeting are available [here](https://docs.google.com/document/d/1dF_Drs56ErV6wJgFmbzpdN-cINshKCsB61D92NS2JDg/edit).
