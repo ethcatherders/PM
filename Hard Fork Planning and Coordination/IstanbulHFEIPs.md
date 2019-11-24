@@ -1,4 +1,5 @@
 # Istanbul Hardfork EIPs
+
  
 [EIP 1679](https://eips.ethereum.org/EIPS/eip-1679) is the Meta EIP for **Istanbul - I** Hardfork which is scheduled to go on **Ropsten on September 4th, 2019**. Based on decision made in Ethereum All Core Dev [Meeting 66](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2066.md), Istanbul is divided in two forks. First one will continue to follow earlier decided schedule and will be activated on mainnet on or around 16th October and second one will be in late January or early February 2020.
 
