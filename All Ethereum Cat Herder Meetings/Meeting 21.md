@@ -56,12 +56,12 @@
 
 ## 3.1 Update on Gitcoin discrepancy
 
-- Brent shared the forensic analysis Brent, and Pooja has done for this [issue] (https://github.com/gitcoinco/web/issues/4362) opened by lane. 
+- Brent shared the forensic analysis Brent, and Pooja has done for this [issue](https://github.com/gitcoinco/web/issues/4362) opened by lane. 
 
 - Still incoming funds from Gitcoin, Aragon recently donated 600 DAI for note making.
 ** ** 
 - **Action 3.1.1:** Lane can do a final check, so that we can close this issue. 
-- **Action 3.1.2:**(Pooja) Please share the screenshot on the github issue for follow up.
+- **Action 3.1.2:** (Pooja) Please share the screenshot on the github issue for follow up.
 
 ** **
 
@@ -82,14 +82,14 @@
 
 ## 3.4 Moloch DAO and other funding
 
-- 38:00 **Tim:** Charles and I have ragequit our shares in Moloch, except one so that ECH can still be the members of Moloch. There are 16 WETH in multisig from the grant for note taking, what should we do about it?
-39:00 **Lane:** How many of our assets are Volatile | Stable currency?
-39:10 **Tim:** We have DAI from gitcoin CLR matching, and other is in WETH. 
-40:15 **Lane:** Proposed Percentage: Volatile - 25%, Stable - 75%?? 
-41:00 **Kenneth:** Suggests Treasury Management, where we identify goals of ECH, and allocate our funds according to future spending areas. For eg. For note making, we will require this many funds. I am personally a fan of Downside protection, and being more risk averse. 
-Downside Protection - It is being speculated that Ether is not gonna go up, and we will see a downward movement. 
-43:00 **William:** If we are gonna pay the funds in DAI, we should convert everything into DAI?
-44:35 **Lane:** Since we don’t have the proper accounting, we should go default and liquidate everything into DAI quickly. 
+- **Tim:** Charles and I have ragequit our shares in Moloch, except one so that ECH can still be the members of Moloch. There are 16 WETH in multisig from the grant for note taking, what should we do about it?
+- **Lane:** How many of our assets are Volatile | Stable currency?
+- **Tim:** We have DAI from gitcoin CLR matching, and other is in WETH. 
+- **Lane:** Proposed Percentage: Volatile - 25%, Stable - 75%?? 
+- **Kenneth:** Suggests Treasury Management, where we identify goals of ECH, and allocate our funds according to future spending areas. For eg. For note making, we will require this many funds. I am personally a fan of Downside protection, and being more risk averse. 
+- Downside Protection - It is being speculated that Ether is not gonna go up, and we will see a downward movement. 
+- **William:** If we are gonna pay the funds in DAI, we should convert everything into DAI?
+- **Lane:** Since we don’t have the proper accounting, we should go default and liquidate everything into DAI quickly. 
 
 ** **
 - **Action 3.4.1:** Convert the existing altcoins, and 2.5k WETH to DAI for now. 
@@ -103,13 +103,13 @@ Downside Protection - It is being speculated that Ether is not gonna go up, and 
 
 # 4 ProgPoW community update
 
-47:00 **Charles:** Tim and I were discussing about what to do with  the money retrieved from Moloch. Should we pay back our contributors on Gitcoin, and other platforms OR continue using these funds for future tasks?
-47:45 **Hudson:** We have three main contributors, ECH, EF, and bitfly. We can divide the CLR funds by 3, and ask EF, bitfly if they want ECH to transfer these funds to them OR want ECH should keep them.
-- 48:45 **Tim:** There are individual funders (funding ranging from 5-1000 DAI) from gitcoin CLR too. We should prioritize them before savory org like EF, bitfly.
+- **Charles:** Tim and I were discussing about what to do with  the money retrieved from Moloch. Should we pay back our contributors on Gitcoin, and other platforms OR continue using these funds for future tasks?
+- **Hudson:** We have three main contributors, ECH, EF, and bitfly. We can divide the CLR funds by 3, and ask EF, bitfly if they want ECH to transfer these funds to them OR want ECH should keep them.
+- **Tim:** There are individual funders (funding ranging from 5-1000 DAI) from gitcoin CLR too. We should prioritize them before savory org like EF, bitfly.
 Sending back the amount in DAI, equivalent to  the amount mentioned in tx detail on etherscan. 
-- 51:00 **Charles:** We don’t have enough funds because one contributor has paid 10,750 DAI, and we have only 13000 left. Therefore, we won’t be able to payback everyone else.
-- 51:30 **Hudson:** We can do simple math, and calculate the individual percentage of amount contributors have given. And instead of giving 100% back, we give a relative percentage back. 
-- 52:00 **Tim:** Lets reach out to the funder, and discuss about the amount they are willing to have as refund?
+- **Charles:** We don’t have enough funds because one contributor has paid 10,750 DAI, and we have only 13000 left. Therefore, we won’t be able to payback everyone else.
+- **Hudson:** We can do simple math, and calculate the individual percentage of amount contributors have given. And instead of giving 100% back, we give a relative percentage back. 
+- **Tim:** Lets reach out to the funder, and discuss about the amount they are willing to have as refund?
 
 ** **
 
@@ -133,12 +133,12 @@ Sending back the amount in DAI, equivalent to  the amount mentioned in tx detail
 
 - Tim Beiko
 - Pooja Ranjan
+- Brett Robertson
 - Kenneth
+- Hudson
+- Charles
+- Lane Rettig
 - Brent Allsop
 - William
-- Brett Robertson
-- Lane Rettig
 - Sachin Mittal
-- Charles
 - Jim
-- Hudson
