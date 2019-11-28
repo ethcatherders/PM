@@ -2,7 +2,7 @@
 # Ethereum Cat Herders Meeting 22 Notes
 
 
-### Meeting Date/Time: Tuesday, 12 November 2019 14:00 UTC
+### Meeting Date/Time: Tuesday, 12 November 2019, [14:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-ny-new-york-city/2pm)
 ### Meeting Duration: 30 minutes
 ### [GitHub Agenda](https://github.com/ethereum-cat-herders/PM/issues/95)
 ### [Audio/Video of the meeting](https://www.youtube.com/watch?v=BzvSdU3MyGs)
