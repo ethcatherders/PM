@@ -13,7 +13,6 @@
 
 # **Summary:**
 
-
 ## **ACTIONS REQUIRED**
 
 
@@ -27,7 +26,7 @@
 **22.6** | Create ECH blog post for issues onboarding. Contact Hudson to tweet issues onboarding blog post on the Ethereum Twitter
 **22.7** | Add [Contribution_Guidelines.md](https://docs.google.com/document/d/1ErKyuxWtu1mw_mRVO5luu00K08m4ou5KEAAdz0Ifgwc/edit#) to ECH repo
 
-## **DECISIONS**
+## **DECISIONS MADE**
 
 Decision Item | Description
 --|--
