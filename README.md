@@ -27,6 +27,8 @@ If you have an issue you would like discussed and aren't sure of the best place 
   18 | Tuesday, August 27, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/86) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%2018.md) | [video](https://www.youtube.com/watch?v=TchZf72fNks) |
   19 | Tuesday, September 10, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/87) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%2019.md) | [video](https://youtu.be/_iGvYx2xXAo) |
   20 | Tuesday, September 24, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/89) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%2020.md) | [video](https://youtu.be/d1vun6LleVU) |
+  21 | Tuesday, October 28, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/95) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%2021.md) | [video](https://youtu.be/Uz9fJJ9t5BA) |
+  22 | Tuesday, November 12, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/96) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%2022.md) | [video](https://youtu.be/BzvSdU3MyGs) |
   
 ### Who Can Attend
 Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Gitter](https://gitter.im/ethereum-cat-herders/community).
