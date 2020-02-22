@@ -3,7 +3,7 @@
 ### Meeting Duration: 1 hour scheduled, .5 hour actual
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/109)
 ### [Audio/Video of the meeting]
-### Moderator: Hudson Jameson
+### Moderator: Pooja Ranjan
 ### Notes: Jim Bennett
 
 ----
@@ -12,7 +12,7 @@
 
 **ACTION 28.1**:  Pooja will contact Helena to try to get updates on the ECH website before the next meeting.
 
-**ACTION 70.2**: Ethereum Cat Herders to create a communication that describes all changes and highlights the concerns around EIP-1884 and provide it back to the All Core Devs for review before it is put out to the community. This document will be released when every client has completed the Istanbul updates and has a block number.
+**ACTION 28.15**: Pay for a part-time ECH coordinator in chiefonsensus 2020
 
 -----
 ## AGENDA
@@ -38,7 +38,7 @@ I agree that it makes a lot of sense to link back EFI list as a rationale. I thi
 As for EIP 233, I'm not that familiar with that one. It's about the upgrade process, right?
 
 **Pooja**
-EIP 233 basically talks about how I should create a meta EIP. It's basically a process documentation that defines how we should create any meta for the upgrade only. So it lists what sections should be included there in the meta EIP. This is what we followed for EIP 1679 that we used for Istanbul. The only section that was not there was motivation. However, James used that motivation section in EIP 2387 that he made for Muir Glacier, which I found very interesting.
+EIP 2 33 basically talks about how I should create a meta EIP. It's basically a process documentation that defines how we should create any meta for the upgrade only. So it lists what sections should be included there in the meta EIP. This is what we followed for EIP 1679 that we used for Istanbul. The only section that was not there was motivation. However, James used that motivation section in EIP 2387 that he made for Muir Glacier, which I found very interesting.
 
 So my thought process was since Ethereum is one of the most of advanced technology, we are and we may be doing experimentation even in the future. So if we add some process directly to EIP 1, I suppose for next time if we're not using that process, we may have to go and edit that. Instead of doing that, the suggestions on my end is that we should have this motivation section in the meta EIP on the table of contents that James is proposing for EIP 1 to be added. So that way, every meta EIP can explain what process we did, and we would not ever forget about it. Even if we are using some other process in a future upgrade, we would not be forgetting about what we did in the past. That would be a reference.
 
@@ -160,7 +160,7 @@ It would be Helena or Hugo, I think, and neither of them are here.
 COuld someone post a URL to that in the chat? I think I've looked for that before. Didn't find it right off.
 
 **Pooja**
-William just shared [that](http://www.ethereumcatherders.com/).
+William just shared that.
 
 **Brent Allsop**
 Oh, cool. Thanks.
@@ -198,29 +198,29 @@ So just for the sake of confirmation, are we considering this percentage or do w
 We absolutely have to convert everything. The percentage was about if we want to use something like compound or DAI savings rate that gets some interest on our DAI, what percentage should restore in that. I think that's the question we still we still don't know.
 
 **Pooja**
-# Hudson to create a proposal to remove individuals from the ECH gitter/telegram channel that have not been active in the last 6 months.
+* Hudson to create a proposal to remove individuals from the ECH gitter/telegram channel that have not been active in the last 6 months.
 We need to close this action item. Why is it here still?
 
-# ECH website to be updated to reflect the Berlin and Difficulty Bomb Hard Forks.
+* ECH website to be updated to reflect the Berlin and Difficulty Bomb Hard Forks.
 I'll get in touch with Helena to know more about it.    
 
-# ECH to look into the funding of updating and maintaining the ECH website.
+* ECH to look into the funding of updating and maintaining the ECH website.
 Okay, that was another question related to the website updating only.
 
-# ECH multi-sig holders to finalize the payments in the funding issues page.
+* ECH multi-sig holders to finalize the payments in the funding issues page.
 I see that a few payments are left there - funding - Tim, if you can initiate that.
 
 **Tim Beiko**
 Yeah. Ok. I'll pay the stuff.
 
-# ECH multi-sig holders to refund the final ProgPoW funds to Bitfly.
+* ECH multi-sig holders to refund the final ProgPoW funds to Bitfly.
 **Pooja**
 we did that, right? So we have to remove this action, too.
 
-# Hudson to confirm wording from Bitfly for ProgPoW refund blog post.
+* Hudson to confirm wording from Bitfly for ProgPoW refund blog post.
 This is also done.
 
-#Lane to create a multi-sig txn to reclaim the stake in dxDAO
+* Lane to create a multi-sig txn to reclaim the stake in dxDAO
 This dxDAO thing that we did sometime back. THis issue is still open in GitHub, where we are supposed to claim the amount that we state on dxDAO. I'm not sure that [unclear] has created a [unclear] transaction for them yet or not. We may have to get in touch with him.
 
 So it's going to be a quick call.
