@@ -12,6 +12,7 @@ At the moment ECH is responsible for writing notes of three different meetings t
 1  | Ethereum All Core Dev meeting       | Friday       |  1400 UTC       |
 2  | Ethereum 2.0 Implementers call      | Thursday     |  1400 UTC       |
 3  | Ethereum Cat Herders meetings       | Tuesday      |  1400 UTC       |
+4  | EIPIP meetings                      | Wednesday    |  1500 UTC       |
   
 
 # Recommendations
@@ -24,6 +25,7 @@ If you are writing notes for any of the above-mentioned meetings on behalf of Ca
     * Ethereum [All Core Dev meeting](https://github.com/ethereum/pm/pulls)   
     * Ethereum [2.0 Implementers call](https://github.com/ethereum/eth2.0-pm/pulls) 
     * Ethereum [Cat Herders call](https://github.com/ethereum-cat-herders/PM/pulls)   
+    * [EIPIP meetings](https://github.com/ethereum-cat-herders/EIPIP/pulls)
 * **Share links** at [Gitter](https://gitter.im/ethereum-cat-herders/community), [Reddit](https://www.reddit.com/r/EthereumCatHerders/) and [Twitter](https://twitter.com/EthCatHerders)
 * **Create an issue** [here](https://github.com/ethereum-cat-herders/funding/issues) for funding.
 
