@@ -12,7 +12,7 @@
 
 **ACTION 28.1**:  Pooja will contact Helena to try to get updates on the ECH website before the next meeting.
 
-**ACTION 28.15**: Pay for a part-time ECH coordinator in chiefonsensus 2020
+**ACTION 28.2**: Pay for a part-time ECH coordinator in chief
 
 -----
 ## AGENDA
