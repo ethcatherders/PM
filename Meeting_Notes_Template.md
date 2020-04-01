@@ -1,6 +1,6 @@
 # Purpose
 
-The purpose of this document is to outline the process of notes taking for various meetings of Ethereum blockchain. Ethereum Cat Herders welcome community members to participate and support developers of Ethereum 1.x and Ethereum 2.0. This document may act as a guideline for new members participating in the note-taking task.
+The purpose of this document is to outline the process of notes taking for various meetings of Ethereum blockchain. Ethereum Cat Herders welcome community members to participate and support developers of Ethereum 1.x and Ethereum 2.0. This document may act as a guideline for new members participating in the note-taking task. Meeting notes schedule is avialable [here](https://docs.google.com/spreadsheets/d/1dPlsQHVmJQtViaoFSAEwtz5uTbvX0-kKOSiyvFoEKiA/edit#gid=0).
 
 
 # Meetings Schedule
