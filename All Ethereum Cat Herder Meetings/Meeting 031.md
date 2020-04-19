@@ -236,5 +236,4 @@ This agenda item wasn't discussed
 - Hudson
 - Edson
 - Brent Allsop
-- William
 - Angela Gilhotra
