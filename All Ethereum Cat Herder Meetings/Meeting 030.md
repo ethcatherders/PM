@@ -330,7 +330,7 @@
 
 - **William:** Okay fine so i reached it's nothing major, reached out to lane he had said the one time that he had tried to doing it didn't work i noticed in the thread that i think Edson may be had a suggestion about something that might make it work so i just drew that his attention he said he was gonna look into it that i haven't heard back from him since so i mean it could be the new information will be enough for him to actually do that i don't know exactly what it's gonna happen though.
 
-- **Edson:** For that information I'd talk to some of the developers in the DX dowd the guy that mainly set up a site if what i wrote doesn't help i can link them together see if they can start i mean he couldn't help directly.
+- **Edson:** For that information I'd talk to some of the developers in the dxDAO the guy that mainly set up a site if what i wrote doesn't help i can link them together see if they can start i mean he couldn't help directly.
 
 - **William:** Okay what's the best way for him to get in touch with you if he needs to. 
 
