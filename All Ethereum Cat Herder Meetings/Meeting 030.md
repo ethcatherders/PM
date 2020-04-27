@@ -57,7 +57,7 @@
 
 ## 2.1 Official onboarding date
 
-- **Pooja:** The next step I was trying to discuss over here was the onboarding date. We have been discussing this for a while but did not quite discuss the formal onboarding date before this. So, hoping to come up with an official onboarding date for this particular rule and I understand that getting answers on funding this position is needed before we can actually decide on any other thing. But while this is in progress, I would like to start working on the responsibilities as Herder-in-chief. So, i would love to hear others thought on this. 
+- **Pooja:** The next step I was trying to discuss over here was the onboarding date. We have been discussing this for a while but did not quite discuss the formal onboarding date before this. So, hoping to come up with an official onboarding date for this particular role and I understand that getting answers on funding this position is needed before we can actually decide on any other thing. But while this is in progress, I would like to start working on the responsibilities as Herder-in-chief. So, I would love to hear others thought on this. 
 
 - **Brent:** you have been cat herder-in-chief since last year, right?.
 
@@ -147,11 +147,11 @@
 
 - **William:** I could, i did reach out to Greg and he said that ide sounds okay, he just needs to make sure there is not a (day conflict).I haven't followed up further from there but both  him and Philippe are intially interested. I guess that might be the best way for me to say it. I don't have the link myself and i came late to the call unfortunately if someone could just put the link in the chat and i'll try and update that.
 
-- **Pooja:** Okay, ill try to share that link but this is not something that has to be done on the date because it's a virtual thing so the idea here is to have a pre-recorded presentation or if at all needed that could be with Zoom live. If there is schedule conflict it may not work but i can't tell it before because i have to submit the list to those people and then they will decide which all are going to be finalized and which presentation they want to take in what way like Zoom way or the pre-recorded way. 
+- **Pooja:** Okay, I'll try to share that link but this is not something that has to be done on the date because it's a virtual thing so the idea here is to have a pre-recorded presentation or if at all needed that could be with Zoom live. If there is schedule conflict it may not work but i can't tell it before because i have to submit the list to those people and then they will decide which all are going to be finalized and which presentation they want to take in what way like Zoom way or the pre-recorded way. 
 
 - **William:** The preferences for pre-recorded is supposed to actually like making a live virtual session .
 
-- **Pooja:** Yes, the preferences are for pre-recorded because i mean like they're trying to make it like 24 hours series like people would be watching from all over the world and any point of time there is something there but or some or the other topics which requires some kind of presentation go step by step or something like that, that could be something with the Zoom link.
+- **Pooja:** Yes, the preferences are for pre-recorded because I mean like they're trying to make it like 24 hours series like people would be watching from all over the world and any point of time there is something there but or some or the other topics which requires some kind of presentation go step by step or something like that, that could be something with the Zoom link.
 
 - **William:** Okay, got it, interesting.
 
