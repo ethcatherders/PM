@@ -21,7 +21,7 @@
 Decision Item | Description
 -|-
 **32.1** | ECH website to also track EIPs as they progress in EFI.
-**32.2** | Aggregate Medium articles describing EIPs for Berlin. As Berlin a | proaches, if there are missing articles, we create them.
+**32.2** | Aggregate Medium articles describing EIPs for Berlin. As Berlin approaches, if there are missing articles, we create them.
 **32.3** | ECH logo to be used for Consensus 2020.
 **32.4** | The ECH website to be updated with balanced ProgPoW resources.
 
