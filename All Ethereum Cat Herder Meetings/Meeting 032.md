@@ -36,11 +36,11 @@ Action Item | Description
 | **32.3**        | Pooja to come up with a draft for Postmortem report for Berlin upgrade |
 | **32.5**        | Hudson and Edson to reach out to EIP editors for the survey  |
 | **32.6**        | Pooja and Hudson to work on the bounty for Eth 2.0 note-making. To follow up with Danny on the one-time payout and tracking with Danny. |
-| **32.7**        | Hudson to move DAI to his public wallet. Tim to approve the transaction. (this week) |
-| **32.8**       | Hudson and Edson to work together on taking down the scam streamings of EF |
-| **32.9**       | Hudson to create an account (name: Ethereum) on twitch for streaming events and community calls |
-**32.10** | Pooja to reach out to James to keep the status of EIPs in the ECH website accurate and current.
-**32.11** | Aggregate Medium articles describing EIPs schedule for Berlin.
+| **32.7**       | Hudson and Edson to work together on taking down the scam streamings of EF |
+| **32.8**       | Hudson to create an account (name: Ethereum) on twitch for streaming events and community calls |
+**32.9** | Pooja to reach out to James to keep the status of EIPs in the ECH website accurate and current.
+**32.10** | Aggregate Medium articles describing EIPs schedule for Berlin.
+**32.11** | Decide a new time allocation for projects in Consensus 2020.
 **32.12** | Sachin to ask Scott Moore about Eth2.0 notes funding.
 **32.13** | Vote on which banner to add for the Ethereum Stack Exchange by Monday.
 **32.14** | The ECH website to be updated with balanced ProgPoW resources.
@@ -104,9 +104,9 @@ It may be best to aggregate Medium articles on each EIP. And as the hardfork rel
 
 ## Actions
 
-- **32.10**—Pooja to reach out to James to keep the status of EIPs in the ECH website accurate and current.
+- **32.9**—Pooja to reach out to James to keep the status of EIPs in the ECH website accurate and current.
 
-- **32.11**—Aggregate Medium articles describing EIPs schedule for Berlin.
+- **32.10**—Aggregate Medium articles describing EIPs schedule for Berlin.
 
 # 2. ECH Substack mailing list
 
@@ -157,7 +157,7 @@ Another topic is considering which logo to use, Ethereum, or ECH. If we use the 
 
 ## Actions
 
-Decide a new time allocation for projects in Consensus 2020.
+- **32.11**—Decide a new time allocation for projects in Consensus 2020.
 
 # 5. Cat Herders funding through Ecosystem Support Program & Moloch DAO
 
