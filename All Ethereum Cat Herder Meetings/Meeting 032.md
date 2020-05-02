@@ -242,7 +242,7 @@ What we can do is go through that call, and summarize the points from the agains
 
 **William**: What's the time loss to submitting a new EIP?
 
-**Greg**: In my experience, 2 years. For 1057, we have a list of clients with the implementation ready to keep track of, all the mining pools and exchanges are onboard and ready with the version just before the kickfix. It's done, it's tested, everyone's ready. We don't have another proposal for how to stop ASICs on the network.
+**Greg**: In my experience, 2 years. For 1057, we have a list of clients with the implementation ready to keep track of, all the mining pools and exchanges are onboard and ready with the version just before the Kik fix. It's done, it's tested, everyone's ready. We don't have another proposal for how to stop ASICs on the network.
 
 **William**: It may take less than 2 years since the EIP has been fleshed out already.
 
