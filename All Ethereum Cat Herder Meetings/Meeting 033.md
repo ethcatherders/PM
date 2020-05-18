@@ -355,6 +355,8 @@ Someone have the link to handy for that vote? I don't think I know where that is
 **Hudson Jameson**
 I have it. I can send it.
 
+Action Item | Description
+-|-
 **32.14** | The ECH website to be updated with balanced ProgPoW resources.
 
 **Pooja Ranjan**
