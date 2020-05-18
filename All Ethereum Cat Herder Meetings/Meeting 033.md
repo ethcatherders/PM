@@ -273,11 +273,13 @@ Okay, so moving on to the next item. It was the review action items from the pre
 
 Action Item | Description
 -|-
-| **32.1**        | Move EIP 2515 to 'other proposed EIPs', and none of the EIPs to go in 'Tentatively Accepted EIPs' for now (until the next ACD call) |
+**32.1**        | Move EIP 2515 to 'other proposed EIPs', and none of the EIPs to go in 'Tentatively Accepted EIPs' for now (until the next ACD call)
 
 It has been done.
 
-| **32.2**        | Tim to come up with a write-up on EIP2046 over the weekend   |
+Action Item | Description
+-|-
+**32.2**        | Tim to come up with a write-up on EIP2046 over the weekend
 
 I saw some messages around that, Tim.
 
@@ -287,44 +289,62 @@ Oh, I didn't know I actually had to do 2046. I thought last time when I posted, 
 **Pooja Ranjan**
 Yeah, instead of just writing up whatever is missing, we can add up. Otherwise, curation is a better approach to meet okay. So we can take this off.
 
-| **32.3**        | Pooja to come up with a draft for Postmortem report for Berlin upgrade |
+Action Item | Description
+-|-
+**32.3**        | Pooja to come up with a draft for Postmortem report for Berlin upgrade
 
 I have been working on it, and it's almost done. I may be able to share it this week, or maybe early next week, with the group to have the initial review.
 
-| **32.5**        | Hudson and Edson to reach out to EIP editors for the survey  |
+Action Item | Description
+-|-
+**32.5**        | Hudson and Edson to reach out to EIP editors for the survey
 
 **Hudson Jameson**
 Yeah, I think most of them did the survey, but we need to talk to Edson.
 
-| **32.6**        | Pooja and Hudson to work on the bounty for Eth 2.0 note-making. To follow up with Danny on the one-time payout and tracking with Danny. |
+Action Item | Description
+-|-
+**32.6**        | Pooja and Hudson to work on the bounty for Eth 2.0 note-making. To follow up with Danny on the one-time payout and tracking with Danny.
 
 So this is two parts - the note-taking bounty has been paid off so far as per Scott, but there was some confusion or something went wrong. On my end, I'm in touch with Scott for that, but I would like to let other people know that if they have some some issues, just let us know.
 
 Because what happened that we received the email that you have been paid for that, but the bounty was actually not transferred to the wallet. So if anybody else sees this kind of discrepancy, please let us know, and we'll try to get it fixed with Scott. And he wanted to come join us in this meeting to let us know what is the process in general that that we should be following to receive this bounty, but, unfortunately, he could not make it for this meeting today. And I'm in touch with him. He proposed Wednesday, but I know Wednesday is super tight for most of the people, because of the Consensus meet. So I'm checking like if he would be available for next week or maybe to the next meeting. We'll update everyone on the channel.
 
-| **32.8**       | Hudson to create an account (name: Ethereum) on twitch for streaming events and community calls |
+Action Item | Description
+-|-
+**32.8**       | Hudson to create an account (name: Ethereum) on twitch for streaming events and community calls
 
 **Hudson Jameson**
 I emailed Twitch asking that they do some takedowns of people impersonating Ethereum on Twitch and also asking that we be given the name Ethereum, because it's already been registered by someone else. So I'm still waiting for that. If it's not here by the end of the week, I'll send a second, more forceful email.
 
+Action Item | Description
+-|-
 **32.9** | Pooja to reach out to James to keep the status of EIPs in the ECH website accurate and current.
 
 **Pooja Ranjan**
 I just have updated the website yesterday. I'll be reaching out to James today, and we'll make sure that whatever list we are creating on the website as well as in this Excel sheet about the individual clients, that should be updated, and I'll get in touch with James.
 
 
+Action Item | Description
+-|-
 **32.10** | Aggregate Medium articles describing EIPs schedule for Berlin.
 
 We just discussed this.
 
+Action Item | Description
+-|-
 **32.11** | Decide a new time allocation for projects in Consensus 2020.
 
 We did that. This was a big battle for us. There was a lot of confusion from "more than three hours" to one hour and then then we came up with a two-hour slot, and that's kind of a tight. But yes, we did it. Now we have six projects representing Ethereum. And it's a good thing. I'm very happy about it.
 
+Action Item | Description
+-|-
 **32.12** | Sachin to ask Scott Moore about Eth2.0 notes funding.
 
 It's been done.
 
+Action Item | Description
+-|-
 **32.13** | Vote on which banner to add for the Ethereum Stack Exchange by Monday.
 
 I have seen many people have already voted. Those who have not voted, please go ahead and vote on the document that was shared by Edson to select which one should go for the Stack Exchange.
@@ -346,6 +366,8 @@ When do we want to take down the ProgPoW stuff? From the past call, there was so
 **Hudson Jameson**
 I think I think Greg had asked for about a month, and I don't think it hurts to leave it up.
 
+Action Item | Description
+-|-
 **32.15** | Decide which version of Gnosis Safe to use.
 
 **Pooja Ranjan**
@@ -360,6 +382,8 @@ So has that been decided? Or is it going to be decided?
 **Hudson Jameson**
 Going to be decided today. So you can keep it on the agenda for next time. And by then, we'll have a decision and movement from that.
 
+Action Item | Description
+-|-
 **32.16** | Finalize decision on adding Pooja to the Multisig.
 
 **Hudson Jameson**
