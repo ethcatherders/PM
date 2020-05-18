@@ -14,20 +14,19 @@ Decision Item | Description
 -|-
 **33.1** | Capture highlights of AllCoreDev, EIPIP, Eth2.0 and the Ethereum stateless meetings and send to ECH substack mailing list
 **33.2** | Approach Moloch Dao for Cat Herders funding
-**33.4** | Use the Multisig for Zoom account renewal and add Pooja to the Multisig
-**33.5** | Submit meeting notes within three to five days - three days is ideal
+**33.3** | Use the Multisig for Zoom account renewal and add Pooja to the Multisig
+**33.4** | Submit meeting notes within three to five days - three days is ideal
 
 ## Actions Required:
 
 Action Item | Description
 -|-
-**33.1**        | Keep the [1559 design bounty](https://docs.google.com/document/d/12yjO2nJzK3_DmQYZLZ8ox1bIZkAznqDZkFrUcxh9E7M/edit#) on the ECH website and write up a blog post about it
-**33.2**        | Follow up with the Ecosystem Support Program re: Cat Herders funding & Moloch DAO
+ **33.1**        | Keep the [1559 design bounty](https://docs.google.com/document/d/12yjO2nJzK3_DmQYZLZ8ox1bIZkAznqDZkFrUcxh9E7M/edit#) on the ECH website and write up a blog post about it
+**33.2**        | Follow up with the Ecosystem Support Program re: Cat Herders funding & Moloch DAO   
 **33.3**        | Vote on images for [the community promotion ad on Stack Exchange.](https://ethereum.meta.stackexchange.com/questions/641/community-promotion-ads-2020)
 **33.4**        | Follow up on [EIPIP survey results](https://medium.com/ethereum-cat-herders/the-feedback-that-improves-ethereum-ff4f3f36a8e2)
 **33.5**        | Bring up the PR to the Berlin meta at the next AllCoreDevs meeting.
 **33.6**       | Add Pooja to the Multisig
-**32.8**       | Hudson to create an account (name: Ethereum) on twitch for streaming events and community calls
 
 ## AGENDA
 
