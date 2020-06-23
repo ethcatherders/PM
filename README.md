@@ -37,7 +37,8 @@ If you have an issue you would like discussed and aren't sure of the best place 
 31 | Tuesday, April 14, 2020 14:00 UTC  | [agenda]() \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20031.md) | video 
 32 | Tuesday, April 28, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/119) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20032.md) | [video](https://youtu.be/iIG1rEIrmJg)
 33 | Tuesday, April 28, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/121) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20033.md) | [video](https://youtu.be/kGWMAiDlhDI)
-34 | Tuesday, May 26, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/123) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20034.md) | [video](https://www.youtube.com/watch?v=DWZe2Ma5y7I)
+34 | Tuesday, May 26, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/123) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20034.md) | [video](https://www.youtube.com/watch?v=DWZe2Ma5y7I)
+35 | Tuesday, June 9, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/124) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20034.md) | [video](https://www.youtube.com/watch?v=xj2c-N0yUiE)
 
 
 ### Who Can Attend
