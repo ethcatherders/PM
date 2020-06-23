@@ -16,13 +16,6 @@
 
 # **Summary:**
 
-## Decisions Made:
-
-Decision Item | Description
--|-
-**35.1** | Wait for Angela to share what's next on Substack mailing. 
-
-
 ## Actions Required:
 
 Action Item | Description
@@ -33,7 +26,6 @@ Action Item | Description
 **35.4** | Pooja to release YOLO Medium article Monday.
 **35.5** | Pooja to contact Tim for the design bounty.
 **35.6** | William to write notes for the previous ACD call before the next ACD call.
-
 
 ---
 
@@ -189,7 +181,7 @@ Video | [42:49](https://youtu.be/xj2c-N0yUiE?t=2569)
 -|-
 
 - We are planning to move ahead with Zoho.
-- Angela hasn't given an update substack
+- Angela hasn't given an update substack.
 - Hudson has started doing payments. But some remain.
 - EIPIP blog has been completed.
 - 1559 meeting in a couple weeks. Notes should be fine as is, without ECH.
