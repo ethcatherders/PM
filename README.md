@@ -38,7 +38,8 @@ If you have an issue you would like discussed and aren't sure of the best place 
 32 | Tuesday, April 28, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/119) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20032.md) | [video](https://youtu.be/iIG1rEIrmJg)
 33 | Tuesday, April 28, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/121) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20033.md) | [video](https://youtu.be/kGWMAiDlhDI)
 34 | Tuesday, May 26, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/123) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20034.md) | [video](https://www.youtube.com/watch?v=DWZe2Ma5y7I)
-35 | Tuesday, June 9, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/124) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20034.md) | [video](https://www.youtube.com/watch?v=xj2c-N0yUiE)
+35 | Tuesday, June 9, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/124) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20035.md) | [video](https://www.youtube.com/watch?v=xj2c-N0yUiE)
+36 | Tuesday, June 23, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/126) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20036.md) | [video](https://www.youtube.com/watch?v=90ZXHrQSibo)
 
 
 ### Who Can Attend
