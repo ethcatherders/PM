@@ -15,7 +15,6 @@ Decision Item | Description
 **36.1** | Closed the issue on documenting the Cat Herders process
 **36.2** | Leave open the issue on "Staking in dxDAO"
 **36.3** | Leave open the issue of "Add an option to Ethernodes that accounts for 'In process'"
-"
 **36.4** | Wait until Berlin is closer to ask Peter from Ethernodes about "In process" option.
 **36.5** | Closed the issue about renbewing Zoom Pro account.  
 **36.6** | Note takers who want to be paid in Eth can do so if the request it and post a screenshot of the Eth price at the time notes are posted. That will be the price used to pay for the notes.
