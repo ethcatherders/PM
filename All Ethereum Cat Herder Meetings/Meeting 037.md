@@ -61,7 +61,7 @@ Video | [1:29](https://youtu.be/PPN1A3XlqtA?t=89)
 
 **Pooja**: So let's begin the first item on the agenda is email account for Cat Herders.
 
-**Brent Allsop** : Yeah I got a hold of Charles St Louis and I forwarded him the set of instructions on the Zoho site about how to configure GoDaddy domain with the Zoho email and he acknowledged receiving those instructions and said he would get to that it configure that and get back to me and I haven't heard back from him again. so what once he gets that done then we'll be able to send email to member@etherumcatherders.com and then we can get anyone who wants it, for example, I think I'll get one created for Brent@allsop@ethereumcatherders.com and anyone else who wants one of those will be able to set one of those up for them.
+**Brent Allsop** : Yeah I got a hold of Charles St Louis and I forwarded him the set of instructions on the Zoho site about how to configure GoDaddy domain with the Zoho email and he acknowledged receiving those instructions and said he would get to that it configure that and get back to me and I haven't heard back from him again. so what once he gets that done then we'll be able to send email to member@etherumcatherders.com and then we can get anyone who wants it, for example, I think I'll get one created for Brent.Allsop@ethereumcatherders.com and anyone else who wants one of those will be able to set one of those up for them.
 
 **William Schwab**: wait there a limited number of emails
 
