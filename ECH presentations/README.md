@@ -18,6 +18,7 @@ The purpose of this folder is to collect various talks and presentations about t
 
 #|       Topic              | Event  | Presentation/Video/Blog  |     
 --| -------------------------|--------|--------------------------|
+4 |Project management & process improvement in Ethereum | Ethereum Summer Camp 2020 Week 3: Women in Ethereum | [Slides](https://docs.google.com/presentation/d/1d00Vqj7QtBsIYg61x1KcbCVHjGHwWNzHSuACD7KuUPM/edit#slide=id.g6df4b28259_2_86), [Blog](https://medium.com/ethplanet/ethereum-summer-camp-2020-week-3-women-in-ethereum-45aad7201f74), [Video](https://www.youtube.com/watch?v=Ew1RJyhepuo&t=819s)
 3	| Growing the Herd: What the Cat Herders Can Do For Ethereum | EthCC 2020, Paris|[Slides](https://drive.google.com/file/d/1YYBlB3tpwkszi0tpyU9YizB1HZxaQzM_/view), [Blog](https://medium.com/ethereum-cat-herders/how-can-we-onboard-newcomers-to-ethereum-better-6794a3314337)|
 2	| ECH at Blockchain in 2020| Blockchain in 2020, Raleigh|[Slides](https://docs.google.com/presentation/d/1Pjz8H2i44Oog-pLuArMNb25bMYcYwj7OoteDUAJputs/edit#slide=id.g6df4b28259_2_86)|
 1	| ECH Roadmap 2020| | [Presentation](https://docs.google.com/presentation/d/16FL5uuUFLdxpOWz1b8BPuM6vmn1QCa2GWvbcojU8f8k/edit#slide=id.p1)|
