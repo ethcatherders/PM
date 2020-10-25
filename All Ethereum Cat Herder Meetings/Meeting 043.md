@@ -36,7 +36,7 @@ Video | [1:10](https://youtu.be/jfEhpXgMDQk?t=70)
 
 **William** - do you mean like geth for instance
 
-**Pooja** - uh maybe alakami
+**Pooja** - uh maybe alchemy
 
 **William** - oh okay no okay i got you we mean now. practically speaking does that mean i should be reaching out to groups though like i mean i have access to the spreadsheet i could be continuing to try and get data and arrange meetings should i should i continue doing that [yeah] okay
 
