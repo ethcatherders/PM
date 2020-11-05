@@ -2,7 +2,7 @@
 ### Meeting Date/Time: Tuesday 1 September 2020 at 14:00 UTC
 ### Meeting Duration: 40 minutes
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/135#issue-687380585)
-### [Audio/Video of the meeting](https://www.youtube.com/watch?v=c6IeoMj2tPg&ab_channel=EthereumCatHerders)
+### [Audio/Video of the meeting](https://www.youtube.com/watch?v=c6IeoMj2tPg)
 ### Moderator: Hudsone Jameson
 ### Notes: Alita Moore
 
