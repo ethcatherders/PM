@@ -14,7 +14,7 @@
 **DECISION 45.1**: Investigate creating a bounty for a web designer to redo the logo and get a color scheme ironed out.
 
 ## ACTION ITEMS
-**ACTION 45.1**:  Hold a community call on Account Abstraction on November 28 at 9 AM EST
+**ACTION 45.1**:  Hold a community call on Account Abstraction on November 20 at 9 AM EST
 
 **ACTION 45.2**: Pooja to create a summary of everything the Cat Herders have done in 2020. Summary to be completed by end of November or December. 
 
@@ -24,7 +24,7 @@
 **Hudson Jameson**
 Hello, everyone! This is Ethereum Cat Herder Meeting number 45.
 
-#1 [ECH Website](https://youtu.be/-qK3wq0HjEE?t=3)
+# 1 [ECH Website](https://youtu.be/-qK3wq0HjEE?t=3)
 The first item on the agenda is the Ethereum Cat Herder website. And I think that item is for Alita.
 
 **Alita Moore**
@@ -144,7 +144,7 @@ Yeah. So on that, as I mentioned the other day in the call with the website, peo
 **Hudson Jameson**
 Cool. That's a good next step is to get funding. All right, anything else on that agenda item?
 
-#2 [Community call for Account Abstraction](https://youtu.be/-qK3wq0HjEE?t=805)
+# 2 [Community call for Account Abstraction](https://youtu.be/-qK3wq0HjEE?t=805)
 
 Okay, next up is community call for Account Abstraction. That's Pooja.
 
@@ -157,7 +157,7 @@ This is the first time we would be having any proposal related to community call
 That all sounds good.
 
 **Pooja Ranjan**
-Yeah, right. So we are targeting it to be on November 28 at 9 AM EST. So, yeah, we can start working on it.
+Yeah, right. So we are targeting it to be on November 20th at 9 AM EST. So, yeah, we can start working on it.
 
 **Hudson Jameson**
 So the ways to get involved, I'm guessing, would be to submit questions or attend it themselves if they're a Cat Herder. Would that be accurate?
@@ -187,7 +187,7 @@ Yeah, of course we can.
 What time was this one this week?
 
 **Pooja Ranjan**
-And it's not in this week. It's the coming week, November 28 9 AM EST.
+And it's not in this week. It's the coming week, November 20th 9 AM EST.
 
 **Alita Moore**
 Okay. I don't think I can make anything before 10 AM.  Anything before 9 PM EST like even this is a bit of a stretch for me.
@@ -204,7 +204,7 @@ So yeah, that's about it. If anybody would want to get involved, take upon any r
 **Hudson Jameson**
 Great. Okay.
 
-#3 [Peep an EIP](https://youtu.be/-qK3wq0HjEE?t=1117)
+# 3 [Peep an EIP](https://youtu.be/-qK3wq0HjEE?t=1117)
 
 Next up, we have Peep an EIP. Any updates on that?
 
@@ -217,7 +217,7 @@ Got it on my calendar.
 **Hudson Jameson**
 Okay, thanks, Pooja.
 
-#4 [Meeting notes updates](https://youtu.be/-qK3wq0HjEE?t=1204)
+# 4 [Meeting notes updates](https://youtu.be/-qK3wq0HjEE?t=1204)
 Next up, we have item 4 - meeting notes updates for the four meetings that we take notes in.
 
 **Pooja Ranjan**
@@ -247,7 +247,7 @@ That's not up yet. So we are done with the notes for AllCoreDev and Eth2, and 15
 **Hudson Jameson**
 Okay, sounds good.
 
-#5 [Emergency communication group](https://youtu.be/-qK3wq0HjEE?t=1350)
+# 5 [Emergency communication group](https://youtu.be/-qK3wq0HjEE?t=1350)
 
 Next item is emergency communication group. For that one, the next step on that is I'm going to talk to some Eth1 security people and get some feedback. I talked to Eth2 security people, and actually, they did bring it up recently about utilizing the Cat Herders for their Google sheet of people to reach out to, and especially in the context of Eth2 staking, if there's a problem, to utilize us to reach out to those groups and make sure that we can communicate messages to them, or get them all in the same place to communicate messages.
 
@@ -257,7 +257,7 @@ Sounds good.
 **Hudson Jameson**
 So I'll just keep updated in the Telegram channel on that.
 
-#6 [Cat Herders funding - Moloch DAO & ESP](https://youtu.be/-qK3wq0HjEE?t=1398)
+# 6 [Cat Herders funding - Moloch DAO & ESP](https://youtu.be/-qK3wq0HjEE?t=1398)
 
 Cat Herders funding - Moloch DAO & ESP. For the Moloch DAO proposal, we'll be submitting that today or tomorrow at the latest. And Pooja and I have been working on that, I think it's for $45,000. And if you're interested in looking it over before we publish it, let us know. And then with ESP, actually, the other day, Pooja, I forgot to mention this when I was talking to you the other day, but I'm talking to someone from ESP again. Because there's been some renewed interest in the Cat Herders and just kind of getting an update of where we're at, more so than anything else, and where our funding's at and what we're doing and what we've accomplished. So I'm starting conversations on that, and then we'll pull people in as needed.
 
@@ -273,7 +273,7 @@ Sure. I'll look into that.
 **Hudson Jameson**
 Okay, anything else on that topic? I forgot to ask on the emergency communication group topic, too. But if there's not on those two, I'll move on to the next one.
 
-#7 [ Discuss and close the ECH GitHub Issues/PRs](https://youtu.be/-qK3wq0HjEE?t=1510)
+# 7 [ Discuss and close the ECH GitHub Issues/PRs](https://youtu.be/-qK3wq0HjEE?t=1510)
 
 All right, the next one, instead of discussing closing GitHub issues, I know William added something a little bit ago to a comment. You wanted to start a conversation about engaging the members who haven't been participating much and increasing participation in general.
 
@@ -347,7 +347,7 @@ Thank you.
 **Hudson Jameson**
 Okay. Is there anything else on this topic? Okay.
 
-#7 [ Discuss and close the ECH GitHub Issues/PRs](https://youtu.be/-qK3wq0HjEE?t=1510)
+# 7 [ Discuss and close the ECH GitHub Issues/PRs](https://youtu.be/-qK3wq0HjEE?t=1510)
 
 Next up, we have close and discuss GitHub issues and PRs. For the PM repo issues, there's nothing in there that I see that would probably have updates, I don't think. Does anyone see any issues that would have updates?
 
@@ -387,7 +387,7 @@ Yeah, yeah, sure. I'll try to close this and create new transactions maybe in a 
 **Hudson Jameson**
 Okay, great. Anything else on outstanding GitHub issues?
 
-#8. [Review of outstanding action items from previous ECH meetings](https://youtu.be/-qK3wq0HjEE?t=2208)
+# 8. [Review of outstanding action items from previous ECH meetings](https://youtu.be/-qK3wq0HjEE?t=2208)
 
 Okay, and then meeting 44 notes.
 
