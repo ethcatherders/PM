@@ -3,7 +3,7 @@
 ## Meeting Date/Time: Tuesday 5 January 2021 at 15:00 UTC
 ### Meeting Duration: 45 minutes
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/152)
-### This meeting was unintantionally not recorded.
+### [Video not available]
 ### Moderator: Pooja Ranjan
 ### Notes: Jim Bennett
 
