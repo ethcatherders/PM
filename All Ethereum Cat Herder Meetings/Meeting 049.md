@@ -7,6 +7,16 @@
 ### Moderator: Pooja Ranjan
 ### Notes: Jim Bennett
 
+## DECISION ITEMS
+
+**DECISION 49.1**: Create bounty to create an ECH website 
+
+**DECISION 49.2**: Increase payment for notes for ECH (30-60 mins) - $50, for EIPIP (60 mins) - $100, for ACD/Eth2/1559 (90 mins) - $150.
+
+**DECISION 49.3**: Convert 5 ETH to pay for notes
+
+**DECISION 49.4**: Create a separate EIP-1559 discussion channel in ECH Discord
+
 **Pooja**
 Welcome to the Ethereum Cat Herders meeting 49. It is the first meeting in 2021. So, Happy New Year everyone!
 The first item on the agenda is
@@ -39,9 +49,7 @@ I’ll share the information on the ECH Discord.
 
 **Pooja**: From the past two meetings, we’ve been discussing contributing to the ethereum.org website. The Cat Herders have some information related to developers’ meeting and network upgrades and we’d like to make it available for the community.
 From earlier meetings, Sam from the ethereum.org team suggested a few options where we can contribute.
-"History" page, which essentially is a "Network upgrades" page: https://ethereum.org/en/history/.  One option might be to work off that & revamp it to meet their needs
- "Community" page: https://ethereum.org/en/community/ Maybe we build out a subpage (e.g. ethereum.org/community/developers) where they maintain a list of ECH resources for new devs to get involved with the client developer community (i.e. listing meeting schedules & notes)
-Developers docs section (https://ethereum.org/en/developers/docs/) perhaps meeting links/pages could fit within there.
+"History" page, which essentially is a "Network upgrades" page: https://ethereum.org/en/history/.  One option might be to work off that & revamp it to meet their needs "Community" page: https://ethereum.org/en/community/ Maybe we build out a subpage (e.g. ethereum.org/community/developers) where they maintain a list of ECH resources for new devs to get involved with the client developer community (i.e. listing meeting schedules & notes) Developers docs section (https://ethereum.org/en/developers/docs/) perhaps meeting links/pages could fit within there.
 
 **Hudson**
 I think the first step would be to create the doc with separate contents.
@@ -50,6 +58,7 @@ I think the first step would be to create the doc with separate contents.
 I already have the doc, but will try to collect contents for separate sections. I will get it done sooner.
 
 In the last meeting, most of the people leaned towards having and managing a separate ECH website along with contents at ethereum.org.  Now that we're planning in that direction, I'd like to focus on getting this remodeling sooner rather than later. Berlin upgrade is closing by, we'd like to make information available at the Cat Herders website, can we target to revamp the website in the next 4-6 weeks?
+
 I was thinking to invite participation from other members or community to proceed with the ECH website on the current domain that we have and give it a new look. I may not be good with estimates. Can we have some estimates on efforts, funds that we should put out for bounty for this job? The good news is we've funds for this task, thanks to Moloch Grant. Now we can even put out a bounty to speed up.
 
 **William**
@@ -80,6 +89,7 @@ At what time, I would like to join?
 
 **Pooja**
 At noon ET on 13th, will share more on it soon.
+
 Next is Eth CC 4. Dates are out April 6-8. Curious to know if someone is planning to attend and wants to represent Cat Herders?
 
 In Eth CC 3, a workshop was conducted by ECH members Tim, William & Helena, followed by a blog by William "How Can We Onboard Newcomers to Ethereum Better?", it is a good summary of the workshop and feedback obtained. It is published with Ethereum Cat Herders Medium, so check it out.
@@ -98,6 +108,7 @@ Well if anyone decides, the form for the speaker participation is out.
 
 ## 5. Meeting notes - payout revision
 I propose to increase the payout for 90 minutes meeting - ACD, Eth2, 1559 from 100 DAI to 150 DAI in tomorrow's meeting. I think these are complicated notes and payment is the same as 60 mins meeting as EIPIP.
+
 Recently, we received a few onboarding forms, which will be a good opportunity to engage new people. Also, would be fair.
 
 **William**
@@ -125,7 +136,7 @@ Do not decrease it William:)
 Sorry, I am fine then, I misunderstood it.
 
 **Pooja**
-Sorry about the confusion, I meant  for ECH (30-60 mins) - $50, for EIPIP (60 mins) - $100, for ACD/Eth2/1559 (90 mins) - $150.
+Sorry about the confusion, I meant for ECH (30-60 mins) - $50, for EIPIP (60 mins) - $100, for ACD/Eth2/1559 (90 mins) - $150.
 
 **Hudson**
 Sounds good to me.
