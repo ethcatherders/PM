@@ -49,9 +49,11 @@ If you have an issue you would like discussed and aren't sure of the best place 
 43 | Tuesday, Oct 13, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/140) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20043.md) | [video](https://youtu.be/jfEhpXgMDQk)
 44 | Tuesday, Oct 27, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/142) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20044.md) | [video](https://www.youtube.com/watch?v=XAkfLrDfvlI)
 45 | Tuesday, Nov 10, 2020 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/144) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20045.md) | [video](https://www.youtube.com/watch?v=-qK3wq0HjEE)
+46 | Tuesday, Nov 24, 2020 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/146) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20046.md) | [video](https://youtu.be/ODL29s37_t4)
 47 | Tuesday, Dec 08, 2020 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/148) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20047.md) | [video](https://youtu.be/fJQ-1bDR8pk)
-48 | Tuesday, Dec 08, 2020 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/150) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20048.md) | [video](https://www.youtube.com/watch?v=E6ZGKXGwDK8)
-49 | Tuesday, Dec 08, 2020 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/152) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20049.md) | video
+48 | Tuesday, Dec 22, 2020 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/150) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20048.md) | [video](https://www.youtube.com/watch?v=E6ZGKXGwDK8)
+49 | Tuesday, Jan 05, 2020 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/152) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20049.md) | video
+50 | Tuesday, Jan 19, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/156) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20050.md) | [video](https://www.youtube.com/watch?v=MYdXXhV6yeA&t=6s)
 
 ### Who Can Attend
 Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Gitter](https://gitter.im/ethereum-cat-herders/community).
