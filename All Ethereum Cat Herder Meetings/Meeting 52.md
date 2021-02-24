@@ -15,7 +15,9 @@
 ## DECISION & ACTION ITEMS
 
 **DECISION 52.1**: Unvetica will share the branding part of the new website in the next meeting. 
+
 **DECISION 52.2**: Alita to continue working on EIP bot, and get in touch with Micah for questions. 
+
 **DECISION 52.3**: Create additional columns in ECH multisig for reimbursement of execution fees
 
 **Pooja Ranjan**: Welcome everyone. This is ethereum cat herders meeting 52. I have shared an agenda in the chat. 
