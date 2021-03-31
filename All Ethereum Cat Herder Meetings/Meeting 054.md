@@ -13,10 +13,8 @@
 
 **DECISION 54.2**: Put an item on the next meeting agenda to discuss using a yield-bearing instrument, either Aave or Compound, to hold fundings. [see 17:50](https://youtu.be/CYX0BzZKPH0?t=1070)
 
-**DECISION 28.3**: Discuss separating ERCs from the EIP repo in the next call. [see 39:53](https://youtu.be/fKQVb-s0Tzs?t=1959)
+
 ----
-****Pooja Ranjan****
-Welcome to EIPIP meeting 28. I'm **Pooja Ranjan**.
 
 ## AGENDA
 
