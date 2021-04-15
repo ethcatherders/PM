@@ -13,6 +13,7 @@ At the moment ECH is responsible for writing notes of three different meetings t
 2  | Ethereum 2.0 Implementers call      | Thursday     |  1400 UTC       |
 3  | Ethereum Cat Herders meetings       | Tuesday      |  1400 UTC       |
 4  | EIPIP meetings                      | Wednesday    |  1500 UTC       |
+5  | 1559 implementers meeting           | Thursday     |  1600 UTC       |                
   
 
 # Recommendations
@@ -21,12 +22,15 @@ If you are writing notes for any of the above-mentioned meetings on behalf of Ca
 
 * **Show up** in the meeting as a Cat Herder representative.
 * **Transcribe** as much as possible to avoid missing out on any discussion.
+* Add zoom chat & attendees list
+* Update README file
 * Create a Pull Request to **submit notes within 72 hrs.** of meeting at respective PM repositories:
     * Ethereum [All Core Dev meeting](https://github.com/ethereum/pm/pulls)   
     * Ethereum [2.0 Implementers call](https://github.com/ethereum/eth2.0-pm/pulls) 
     * Ethereum [Cat Herders call](https://github.com/ethereum-cat-herders/PM/pulls)   
     * [EIPIP meetings](https://github.com/ethereum-cat-herders/EIPIP/pulls)
-* **Share links** at [Gitter](https://gitter.im/ethereum-cat-herders/community), [Reddit](https://www.reddit.com/r/EthereumCatHerders/) and [Twitter](https://twitter.com/EthCatHerders)
+    * Ethereum [1559 Implementers meeting](https://github.com/ethereum/pm/pulls) 
+* **Share links** at [ECH Discord](https://discord.gg/tzYmDmF), [Ethereum Reddit](https://www.reddit.com/r/ethereum/) and respective Discord channel.
 * **Create an issue** [here](https://github.com/ethereum-cat-herders/funding/issues) for funding.
 
 
@@ -85,4 +89,4 @@ Description...
 
 ## Attendees
 
-## Links discussed in the call
+## Links discussed in the call (zoom chat)
