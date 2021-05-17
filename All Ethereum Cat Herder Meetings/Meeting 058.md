@@ -13,14 +13,10 @@
 
 **ACTION 58.2**: William will research what other funding sources are available that are not currently being utilized. [see 40:35](https://youtu.be/1CgJxNIPTws?t=2434)
 
-**DECISION 28.3**: Discuss separating ERCs from the EIP repo in the next call. [see 39:53](https://youtu.be/fKQVb-s0Tzs?t=1959)
 ----
-****Pooja Ranjan****
-Welcome to EIPIP meeting 28. I'm **Pooja Ranjan**.
-
 ## AGENDA
 
-## . [Events and community meetings](https://youtu.be/CYX0BzZKPH0?t=8)
+## [Events and community meetings](https://youtu.be/CYX0BzZKPH0?t=8)
 
 **Pooja Ranjan**
 Welcome, everyone. Welcome to Ethereum Cat Herders meeting 58. So before we dive into the agenda, we have one new member joining, Brayton. Brayton, would you like to go ahead and introduce yourself?
