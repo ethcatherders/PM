@@ -1,6 +1,6 @@
 # Ethereum Cat Herders Meeting 53 Notes
 
-### Meeting Date/Time: Tuesday, Mar 02, 2020 14:00 UTC
+### Meeting Date/Time: Tuesday, Mar 02, 2021 15:00 UTC
 
 ### Meeting Duration:  30 min.
 

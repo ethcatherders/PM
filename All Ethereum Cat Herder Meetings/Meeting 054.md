@@ -1,5 +1,5 @@
 # ECH Meeting 54 Notes
-## Meeting Date/Time: Tuesday 16 March at 15:00 UTC
+## Meeting Date/Time: Tuesday 16 March 2021 at 15:00 UTC
 ### Meeting Duration: 0.5 hour
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/165)
 ### [Audio/Video of the meeting](https://www.youtube.com/watch?v=CYX0BzZKPH0)
