@@ -20,12 +20,12 @@
 
 Action Item | Description
 -|-
-**53.1** | Choose a .crypto domain name for the ECH
-**53.2** | Shane Lightowler promoted to member
-**53.3** | Find a Moloch member to propose our funding request
-**53.4** | Continue with ESP
-**53.5** | Pooja to organize block gas limit discussion meeting
-**53.6** | Brent to ask for legal advice regarding the Nethermind invoice
+**59.1** | Choose a .crypto domain name for the ECH
+**59.2** | Shane Lightowler promoted to member
+**59.3** | Find a Moloch member to propose our funding request
+**59.4** | Continue with ESP
+**59.5** | Pooja to organize block gas limit discussion meeting
+**59.6** | Brent to ask for legal advice regarding the Nethermind invoice
 
 
 ---
