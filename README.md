@@ -62,7 +62,7 @@ If you have an issue you would like discussed and aren't sure of the best place 
 59 | Tuesday, May 26, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/177) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20059.md) | [video](https://youtu.be/rURgAqMIHV8)
 
 ### Who Can Attend
-Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Gitter](https://gitter.im/ethereum-cat-herders/community).
+Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Discord](https://discord.gg/tzYmDmF).
 
 ### Agenda Items
 Agendas are posted to https://github.com/ethereum-cat-herders/PM/issues. Anyone is welcome to add an item to the agenda as long as it follows these guidelines:
