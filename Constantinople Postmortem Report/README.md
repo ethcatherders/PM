@@ -10,4 +10,4 @@ The purpose of this report is to put process and best practices in place to be f
 You may track the progress of Action Items (Constantinople Postmortem) [here](https://github.com/orgs/ethereum-cat-herders/projects/1) discussed in Ethereum Cat Herders meeting #4 [Notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%204.md). 
 
 ### Contributors
-Various contributors to the Cat Herders are helping with their research. But to fascilitate the report, Ethereum Cat Herders have created a subcommitte, a team made up of people who are reliable and across multiple time zones, and are responsible for maintaining contact with the key stake holders. If you would want to participate, you are welcome to join [Gitter](https://gitter.im/ethereum-cat-herders/community). 
+Various contributors to the Cat Herders are helping with their research. But to fascilitate the report, Ethereum Cat Herders have created a subcommitte, a team made up of people who are reliable and across multiple time zones, and are responsible for maintaining contact with the key stake holders. If you would want to participate, you are welcome to join [Discord](https://discord.gg/tzYmDmF). 
