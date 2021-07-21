@@ -62,6 +62,7 @@ If you have an issue you would like discussed and aren't sure of the best place 
 59 | Tuesday, May 26, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/177) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20059.md) | [video](https://youtu.be/rURgAqMIHV8)
 60 | Tuesday, Jun 8, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/190) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20060.md) | [video](https://www.youtube.com/watch?v=BTkFfN4daeE)
 61 | Tuesday, Jun 22, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/206 ) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20061.md) | [video](https://youtu.be/HcxxXbzBe14)
+63 | Tuesday, Jul 20, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/216) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20063.md) | [video](https://youtu.be/eFVPFMwIHWU)
 
 ### Who Can Attend
 Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Discord](https://discord.gg/tzYmDmF).
