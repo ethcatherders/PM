@@ -11,7 +11,7 @@
 
 **DECISION 64.1**: Investigate collaboration with Eth Stakers on a countdown for future upgrades. [See 9:56](https://youtu.be/oyg7IYo-l3k?t=596)
 
-**DECISION 64.2**: Get in touch with Orrin(?) to discuss handling X DAI. [See 17:16](https://youtu.be/oyg7IYo-l3k?t=1036)
+**DECISION 64.2**: Get in touch with Auryn to discuss handling X DAI. [See 17:16](https://youtu.be/oyg7IYo-l3k?t=1036)
 
 **DECISION 64.3**: In the next meeting, discuss whether the people hosting the ECH website should be hired to manage ECH social media. [see 22:30](https://youtu.be/oyg7IYo-l3k?t=1350)
 
