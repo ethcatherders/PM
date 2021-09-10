@@ -11,9 +11,10 @@ At the moment ECH is responsible for writing notes of three different meetings t
 ---| ----------------------------------- | ------------ | --------------- |
 1  | Ethereum All Core Dev meeting       | Friday       |  1400 UTC       |
 2  | Ethereum 2.0 Implementers call      | Thursday     |  1400 UTC       |
-3  | Ethereum Cat Herders meetings       | Tuesday      |  1400 UTC       |
+3  | Ethereum Cat Herders meetings       | Tuesday      |  1500 UTC       |
 4  | EIPIP meetings                      | Wednesday    |  1500 UTC       |
-5  | 1559 implementers meeting           | Thursday     |  1600 UTC       |                
+5  | 1559 implementers meeting           | Thursday     |  Inactive       |   
+6  | Merge meetings                      | Thursday     |  1400 UTC       |
   
 
 # Recommendations
