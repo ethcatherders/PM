@@ -2,17 +2,16 @@
 ## Meeting Date/Time: Tuesday 14 September at 15:00 UTC
 ### Meeting Duration: 0.50 hour
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/225)
-### [Audio/Video of the meeting](https://www.youtube.com/channel/UCD9iiIwTRtLDYcEWONs2Q3A)
+### [Audio/Video of the meeting](https://www.youtube.com/watch?v=KngrkkFhUf8)
 ### Moderator: Pooja Ranjan
 ### Notes: Kenneth Luster
 
-
-## AGENDA
+---
 
 **Pooja Ranjan**
 Welcome to add the Ethereum Cat Headers Meeting 66, this is Pooja Ranjan, and I am sharing the agenda in chat.
 
-#1. [ECH updates](https://youtu.be/KngrkkFhUf8)
+# 1. [ECH updates](https://youtu.be/KngrkkFhUf8)
 
 So, the first item on the agenda is ECH update so I see Alita left some updates for each engineering.
 I suppose we can move on we’ll come back If she doesn't join by that time.
@@ -70,7 +69,6 @@ So, the Ethereum 2.0 Implementers Meeting has now been renamed as Consensus Meet
 Alright, moving on to the next item of improvement to ECH Website. So, I was wondering like this present website of the Ethereum Cat Herders as they provide all the information about the upgrade and different Meetings and notes.
 There are people who are also looking for some feeds of the last call, I know that there is an RSS feed. So, I was wondering what people think about having it integrated on our website for Eth2 news and for the last call on EIPs.
 
-
 **William Schwab**
 What work, with demand that before.
 
@@ -79,19 +77,25 @@ So, here's the thing for last call EIPs a proposal is generally there for 14 day
 But I think if we start providing this information on our website, we can actively direct the traffic over there and let people know that if you are interested in commenting on any of the proposal which are coming into life like last call either you
 can subscribe to the RSS feed and if you have trouble doing that, it is list is available there and you can check that so I'm supposing that it's going to help like sharing word about the last call proposals.
 
-
 **William Schwab**
 I, I can't, I can't say that I'm against it.
 It's just, I mean, if they're not getting it out of GitHub like image how they'll get it out an RSS feed from us.
 But, I mean, again I don't mean that it's an opposition.
 
+# 2. Improvement to ECH website
 
 **Pooja Ranjan**
 Right. 
 So, I'm thinking of opening this as an issue to be updated on the ECH website.
 Yeah, if people have any thoughts on like you know where it should go or maybe I'll check with the development team is like, if there is any challenges, but what I wanted to get from this Meeting if people have any objection, which I seem to know and there was another thing on the current website that every time I have to create a request or someone has to create a request to update with the last Meeting which I wanted it should be auto updated that would make sense that we do not have to let people know every time that this is the Meeting link and you need to update so these are the two improvements maybe you would like to talk to the website development team to look into that.
 
-Also, if people think that anything else should go on their website, or if anything is a not up to date, please me create an issue on the ECH GitHub, going on to the next topic is a new initiative, so about the EIPs, I was trying to collect some information on like how we are doing on it I know a lot of work are being put in by the EIP Editors, authors and other Community Contributors but still there is no clear information of like what EIPs like every month we are moving into different statuses so I have started this new newsletter that is for EIP insight.
+Also, if people think that anything else should go on their website, or if anything is a not up to date, please me create an issue on the ECH GitHub, 
+
+# 3. New initiatives
+
+
+**Pooja Ranjan**
+going on to the next topic is a new initiative, so about the EIPs, I was trying to collect some information on like how we are doing on it I know a lot of work are being put in by the EIP Editors, authors and other Community Contributors but still there is no clear information of like what EIPs like every month we are moving into different statuses so I have started this new newsletter that is for EIP insight.
 I have provided the link here.
 So, this is basically will list all the proposals that moved from one status to other status in a particular amount like favorite, we did so many proposals to vote to new proposals and then some move to draft to review, some review to last call.
 That is another way, but that I'm hoping to release every month, and uh, yeah.
@@ -102,6 +106,8 @@ Like we are trying to pay special attention that a lot of open issues or request
 The other sub item listed on this topic is Discord Channel 
 So, in the last Meeting we discussed about having a discord channel on governance which is right there, like we are trying to address relative information like whatever we are collecting from the community, and if people want to talk about governance, or give us some suggestion, feel free to hang out in the even Ethereum Cat Herders discord and share your thoughts on the governance channel.
 So, I was also thinking about having jobs channel, but it's not been created yet, and we are so far, we are looking into off topics for all jobs related information, but if there would be like heavy, you know, interest people want to have it separately I'm happy to create a separate channel for discussion.
+
+# 4. ECH funding
 
 We're moving on to ECH funding.
 As mentioned in the last Meeting, the Fund for next three months will were approved by the ECH team, and I have converted them to most of them to the stable currency.
@@ -130,7 +136,7 @@ Yeah, let me know yeah, we can work on that.
 
 **Pooja Ranjan**
 Yeah, I agree to it, and I think the one that we have published recently about like past six months, would be something new that we can add there, and it gives a comprehensive idea.
-What a great idea We can do that and for Monarch, yes. I'm also in touch with the Monarch Team, maybe somewhere down the line November, October, November will request for next round of funding from the team and I'm so grateful to all these Working Groups, and those are supporting the Ethereum Cat Herders.
+What a great idea We can do that and for Moloch, yes. I'm also in touch with the Moloch Team, maybe somewhere down the line November, October, November will request for next round of funding from the team and I'm so grateful to all these Working Groups, and those are supporting the Ethereum Cat Herders.
 
 Those were the items needed discussion. I'm wondering if we can start a new section in this Ethereum Cat Herders Meeting talking about a brainstorming session like we get to have new people they join us. I know they are having different ideas of what we start talking about these different ideas and this Ethereum Cat Herders Meeting.
 
@@ -180,7 +186,7 @@ Yeah, if we can maybe if they are interested, they can participate in one of the
 Yeah, we can do that. Otherwise, what I do generally is like I provide the link of agenda, I'm on like the ECH GitHub, where we have this Meeting agenda available in advance.
 I'm not very sure of what do people think in general, like, I mean I see no harm but in that case the invite will be extending every week, which I'm not sure.
 
-William Schwab
+**William Schwab**
 I like thoughts, ideas, that's our idea first I'd submitted when that first see what that happens. I know definitely do agree that we should be putting things in place, to try and make sure that people were interested in volunteering get paired up with up with something they can do.
 I think the question is going to be how to do that. I think that's probably some of what you're talking to Santosh. I don't know if any of them to the Meeting is necessarily a good way to do that just because like I guess I'm worried they'll get lost in the Meeting or disrupted like not disrupt maliciously or anything like that but just by having people who haven't necessarily set in on the Meetings before have no idea what's going on here like just the process that you usually follows so because now and like my instinct is isn't like a strong, strong feeling but I'd say my general instinct would be to try and come up with other solutions try and make sure that we capitalized some people were willing to help and that they're able to do what they want to do. Awesome.
 
