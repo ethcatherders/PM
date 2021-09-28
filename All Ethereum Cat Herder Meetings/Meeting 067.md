@@ -14,6 +14,16 @@
 
 ### Notes -  darkfire-rain 
 
+----
+
+## DECISION ITEMS
+
+**DECISION 67.1**: Schedule another new joiner meeting to increase community interaction.
+
+**DECISION 67.2**: Ken will work on the community building. 
+
+---
+
 # 1. ECH updates
 
 **Pooja**: Welcome to ethereum cat herders meeting 67. I just have shared the agenda in Chat so the pre item as we have it on the agenda is introduction to any new member or the contributors or anyone who joins the discord community and would like to participate in this meeting so I see a couple of new names here though we have organized a new community meetings members Yesterday but still for this meeting I know this is your first time and if you would like to go ahead and introduce your trip to the group please feel free I can go
