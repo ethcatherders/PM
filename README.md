@@ -64,9 +64,10 @@ If you have an issue you would like discussed and aren't sure of the best place 
 61 | Tuesday, Jun 22, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/206 ) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20061.md) | [video](https://youtu.be/HcxxXbzBe14)
 63 | Tuesday, Jul 20, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/216) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20063.md) | [video](https://youtu.be/eFVPFMwIHWU)
 64 | Tuesday, Aug 3, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/221) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20064.md) | [video](https://youtu.be/oyg7IYo-l3k)
-65 | Tuesday, Aug 17, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/222) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20064.md) | [video](https://youtu.be/jhO1Qz-vViA)
-66 | Tuesday, Aug 31, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/225) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20064.md) | [video](https://youtu.be/KngrkkFhUf8)
-(All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20064.md) | [video](https://youtu.be/jhO1Qz-vViA)
+65 | Tuesday, Aug 17, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/222) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20065.md) | [video](https://youtu.be/jhO1Qz-vViA)
+66 | Tuesday, Aug 31, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/225) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20066.md) | [video](https://youtu.be/KngrkkFhUf8)
+67 | Tuesday, Sep 14, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/227) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20067.md) | [video](https://www.youtube.com/watch?v=MwFqgTl3WFA)
+68 | Tuesday, Sep 28, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/230) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20068.md) | [video](https://www.youtube.com/watch?v=xx1TgBsNoB0)
 69 | Tuesday, Oct 12, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/236) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20069.md) | [video](https://youtu.be/oXdmwofWqwc)
 
 ### Who Can Attend
