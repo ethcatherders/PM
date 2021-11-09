@@ -12,6 +12,7 @@
 **DECISION 70.1**: Add DEGEN bot to the ECH Discord server.[see 17:07](https://youtu.be/XaDj6b9GuiA?t=1603)
 
 **DECISION 70.2**: Submit the grant proposal for the next round of Moloch DAO funding. [see 26:43](https://youtu.be/XaDj6b9GuiA?t=1603)
+
 ----
 
 ## AGENDA
