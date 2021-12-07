@@ -8,6 +8,7 @@ This report is to document an incident that led to accidentally losing access t
 * First notification: 9:45 pm  EST (by Etherscan Team)
 * Twitter announcement: 11:30 pm EST
 * New Server setup & announcement: December 04, 2021 at 9:12 pm EST 
+* Discord team response: December 06, 2021
 
 Ethereum Cat Herders Discord is a community that we've built for the users interested about Ethereum, interested in contributing to the ecosystem. On  Friday, December 03, 2021, a random user shared a phishing link on multiple channels of the ECH Discord. I received the notification from Wick bot and also Micah Zoltu, an EIP editor, alarmed to remove the msg in order to protect users of the server. 
 I was operating from my cell phone and tried to remove the user from the server and remove the link from different channels. In the attempt it was accidentally clicked on one of the channels. Though I closed the tab immediately and imagined that everything was under control. I did respond on the server thanking him for the alert and that I have removed the link. 
@@ -19,6 +20,9 @@ I received a ticket number from the Discord team but due to the weekend, I would
 ![image](https://user-images.githubusercontent.com/29681685/145046904-2d822081-ff37-4224-9359-cfc758d5cf68.png)
 
 The Arrow Glacier upgrade was in less than 5 days, and being uncertain of if and when Discord support can help us recover the lost group, the next day I started the effort of reconnecting lost group members to a newly created ECH discord server. I would like to thank Etherscan, Micah Zoltu, Tim Beiko, Darkiscool, Alen, Mryalamanchi, Muddlebee and many ECH contributors who helped get the new Ethereum Cat Herders Discord server & users back.
+
+The Discord team responded yesterday, "**Unfortunately, Discord staff does not interfere with individual server management and if the server was deleted, there is no way to restore it.**" 
+
 
 ## What are we doing to prevent this in future?
 This incident gave us the opportunity to restructure the Discord channel. We have added bots to aid with additional security at the time of joining the server. Wick bot is more strict and will kick users out of the server failing compliance. I have also enabled 2FA on Discord that wasn't there earlier.
