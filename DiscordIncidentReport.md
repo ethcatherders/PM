@@ -18,7 +18,7 @@ I received a ticket number from the Discord team but due to the weekend, I would
 
 ![image](https://user-images.githubusercontent.com/29681685/145046904-2d822081-ff37-4224-9359-cfc758d5cf68.png)
 
-The Arrow Glacier upgrade was in less than 5 days, and being uncertain of if and when Discord support can help us recover the lost group, the next day I started the effort of reconnecting lost group members to a newly created ECH discord server. I would like to thank Micah Zoltu, Tim Beiko, Darkiscool, Alen, Mryalamanchi, Muddlebee and many ECH contributors who helped get the new Ethereum Cat Herders Discord server & users back.
+The Arrow Glacier upgrade was in less than 5 days, and being uncertain of if and when Discord support can help us recover the lost group, the next day I started the effort of reconnecting lost group members to a newly created ECH discord server. I would like to thank Etherscan, Micah Zoltu, Tim Beiko, Darkiscool, Alen, Mryalamanchi, Muddlebee and many ECH contributors who helped get the new Ethereum Cat Herders Discord server & users back.
 
 ## What are we doing to prevent this in future?
 This incident gave us the opportunity to restructure the Discord channel. We have added bots to aid with additional security at the time of joining the server. Wick bot is more strict and will kick users out of the server failing compliance. I have also enabled 2FA on Discord that wasn't there earlier.
