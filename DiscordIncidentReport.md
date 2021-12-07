@@ -1,4 +1,4 @@
-This an incident report about the loss of access and deletion of the Ethereum Cat Herders Discord server.
+This is an incident report about the loss of access and deletion of the Ethereum Cat Herders Discord server.
 
 ## Incident Description
 ### Sequence of events
@@ -20,7 +20,7 @@ Pooja received a ticket number from the Discord team but likely due to it being 
 
 ![image](https://user-images.githubusercontent.com/29681685/145046904-2d822081-ff37-4224-9359-cfc758d5cf68.png)
 
-The Arrow Glacier upgrade was in less than 5 days, and being uncertain of if and when Discord support can help us recover the lost group, the next day Pooja started the effort of reconnecting lost group members to a newly created ECH discord server. Pooja would like to thank Etherscan, Micah Zoltu, Tim Beiko, Darkiscool, Alen, Mryalamanchi, Muddlebee, William Schwab and many ECH contributors who helped get the new Ethereum Cat Herders Discord server running, and getting users connected with it.
+The Arrow Glacier upgrade was in less than 5 days, and being uncertain of if and when Discord support can help us recover the lost group, the next day Pooja started the effort of reconnecting lost group members to a newly created [ECH discord server](https://discord.io/EthCatHerders). Pooja would like to thank Etherscan, Micah Zoltu, Tim Beiko, Darkiscool, Alen, Mryalamanchi, Muddlebee, William Schwab and many ECH contributors who helped get the new Ethereum Cat Herders Discord server running, and getting users connected with it.
 
 The Discord team responded Monday, December 6, "**Unfortunately, Discord staff does not interfere with individual server management and if the server was deleted, there is no way to restore it.**" 
 
