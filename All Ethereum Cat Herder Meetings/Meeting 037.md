@@ -195,7 +195,7 @@ Video | [18:35](https://youtu.be/PPN1A3XlqtA?t=1115)
 **Edson**: I am in favor, also. 
 
 **Pooja**: I tried to give it a shot, here is the link. It’s not public yet. We’ll try to get the feedback of other people in the group, many of them are not in the meeting today. Before we go ahead and make public, I’d like to reach them, too. 
-For those who are present here today,  [this is the Discord link](https://discord.gg/cTjnyP),  that I tried to create with some of the channels that I was talking about.
+For those who are present here today,  [this is the Discord link](https://discord.io/EthCatHerders),  that I tried to create with some of the channels that I was talking about.
 
 **Edson**: do you want some of the channels private? And what you do is give people roles and then have channels be only public to those roles.
 

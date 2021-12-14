@@ -271,7 +271,7 @@ So far, four clients have signaled participating in this testnet. Proposed date 
 **Pooja**: The PR for Berlin meta is now accepted. Intend to keep it updated.
 
 
-## 8.3 [ECH Website](https://www.ethereumcatherders.com)
+## 8.3 [ECH Website](https://ethereumcatherders.com)
 
 **Hudson**: I think, we should hold off providing more information on the YOLO testnet on ECH website. 
 
