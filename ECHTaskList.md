@@ -2,7 +2,7 @@
 
 Sl. No. |	Task	| Coordinator / Team	| Comments / Link (GitHub / Medium) 
 --------|-------|---------------------|------------------------
-1	| [ECH Website](http://www.ethereumcatherders.com) Development	|	Adam Schmideg, Hugo Sanchez	| Let us know if anything at the [ECH Website](http://www.ethereumcatherders.com)  needs to be updated at [ECH Gitter](https://gitter.im/ethereum-cat-herders/community)
+1	| [ECH Website](https://ethereumcatherders.com) Development	|	Adam Schmideg, Hugo Sanchez	| Let us know if anything at the [ECH Website](https://ethereumcatherders.com)  needs to be updated at [ECH Gitter](https://gitter.im/ethereum-cat-herders/community)
 2	| [ECH weekly Call](https://github.com/ethereum-cat-herders/PM)	|	Hudson Jameson, Lane Rettig, Brett Roberston	| [ECH Notes Taker Gitter](https://gitter.im/ethereum-cat-herders/meeting-notes-and-summaries) 
 3	| [Ethereum ACD biweekly call](https://github.com/ethereum/pm/tree/master/All%20Core%20Devs%20Meetings	)	|	Hudson Jameson, Pooja Ranjan, Brett Robertson |	[ECH Notes Taker Gitter](https://gitter.im/ethereum-cat-herders/meeting-notes-and-summaries) 
 4	| [Ethereum 2.0](https://github.com/ethereum/eth2.0-pm)| Pooja Ranjan, Brett Robertson | [ECH Notes Taker Gitter](https://gitter.im/ethereum-cat-herders/meeting-notes-and-summaries) 
@@ -34,7 +34,7 @@ Sl. No. |	Task	| Coordinator / Team	|Comments / Link (GitHub / Medium)
 Feel free to drop any issue related to Ethereum 1.x, Ethereum 2.0  or Ethereum in general at [ECH GitHub](https://github.com/ethereum-cat-herders/PM/issues) or [Gitter](https://gitter.im/ethereum-cat-herders/community) and our team will point you to the right team/person of contact. 
 
 Follow Ethereum Cat Herders for more updates at:
-* [Website](http://www.ethereumcatherders.com)
+* [Website](https://ethereumcatherders.com)
 * [Twitter](https://twitter.com/EthCatHerders)
 * [Reddit](https://www.reddit.com/r/EthereumCatHerders/)
 * [Medium](https://medium.com/ethereum-cat-herders)

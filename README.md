@@ -70,9 +70,12 @@ If you have an issue you would like discussed and aren't sure of the best place 
 68 | Tuesday, Sep 28, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/230) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20068.md) | [video](https://youtu.be/xx1TgBsNoB0)
 69 | Tuesday, Oct 12, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/236) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20069.md) | [video](https://youtu.be/oXdmwofWqwc)
 70 | Tuesday, Oct 28, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/242) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20070.md) | [video](https://youtu.be/XaDj6b9GuiA)
+71 | Tuesday, Nov 09, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/247) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20071.md) | [video](https://youtu.be/m2-3GVWu6E0)
+72 | Tuesday, Nov 09, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/249) \| notes | [video](https://youtu.be/Hyzj5XZwi9s)
+73 | Tuesday, Nov 09, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/250) \| notes | [video](https://youtu.be/5wrplqG6V0w)
 
 ### Who Can Attend
-Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Discord](https://discord.gg/tzYmDmF).
+Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Discord](https://discord.io/EthCatHerders).
 
 ### Agenda Items
 Agendas are posted to https://github.com/ethereum-cat-herders/PM/issues. Anyone is welcome to add an item to the agenda as long as it follows these guidelines:

@@ -55,6 +55,6 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 
 ## 9. Contact info 
 
-You can contact our Admins via [Discord](https://discord.gg/tzYmDmF)
+You can contact our Admins via [Discord](https://discord.io/EthCatHerders)
 
-Ethereum Cat Herders [Website](http://www.ethereumcatherders.com/)
+Ethereum Cat Herders [Website](https://ethereumcatherders.com/)
