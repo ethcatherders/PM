@@ -94,3 +94,6 @@ Meeting notes template is available [here](https://github.com/ethereum-cat-herde
 ## Who Manages the Meetings
 
 Various contributors to the Cat Herders facilitate and record the meetings. The meetings are independent of any organization. Livestreaming instructions for the meeting are available [here](https://docs.google.com/document/d/1dF_Drs56ErV6wJgFmbzpdN-cINshKCsB61D92NS2JDg/edit).
+
+### Perma-archived Meetings
+The audio files of the Previous Meetings are stored permanently on [Permacast](https://permacast.net/#/podcasts/AyENHKvl57vNvoY0rXna4W9h01HirbljLD1mYnvGdEU).
