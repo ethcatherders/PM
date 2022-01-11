@@ -76,6 +76,7 @@ If you have an issue you would like discussed and aren't sure of the best place 
 72 | Tuesday, Nov 23, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/249) \| notes | [video](https://youtu.be/Hyzj5XZwi9s)
 73 | Tuesday, Dec 07, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/250) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20073.md)  | [video](https://youtu.be/5wrplqG6V0w)
 74 | Tuesday, Dec 21, 2021 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/253) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20074.md)  | [video](https://www.youtube.com/watch?v=eGM5QA4HXYc)
+75 | Tuesday, Jan 4, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/258) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20075.md)  | [video](https://youtu.be/5FdVLopE9NU)
 
 ## Who Can Attend
 
