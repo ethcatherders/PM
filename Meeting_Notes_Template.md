@@ -31,7 +31,7 @@ If you are writing notes for any of the above-mentioned meetings on behalf of Ca
     * Ethereum [Cat Herders call](https://github.com/ethereum-cat-herders/PM/pulls)   
     * [EIPIP meetings](https://github.com/ethereum-cat-herders/EIPIP/pulls)
     * Ethereum [1559 Implementers meeting](https://github.com/ethereum/pm/pulls) 
-* **Share links** at [ECH Discord](https://discord.gg/tzYmDmF), [Ethereum Reddit](https://www.reddit.com/r/ethereum/) and respective Discord channel.
+* **Share links** at [ECH Discord](https://discord.io/EthCatHerders), [Ethereum Reddit](https://www.reddit.com/r/ethereum/) and respective Discord channel.
 * **Create an issue** [here](https://github.com/ethereum-cat-herders/funding/issues) for funding.
 
 

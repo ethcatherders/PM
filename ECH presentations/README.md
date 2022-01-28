@@ -29,4 +29,4 @@ The purpose of this folder is to collect various talks and presentations about t
 
 ## How can I join the Ethereum Cat Herders?
 
-Ethereum Cat Herders is a group of individuals who volunteers to help with communication and coordination tasks needed to support the Ethereum ecosystem. Various contributors to the Cat Herders are helping Ethereum core developers with their research. If this is something that interests you and you would want to participate, we encourage you to reach the existing members at [ECH Discord](https://discord.gg/tzYmDmF).
+Ethereum Cat Herders is a group of individuals who volunteers to help with communication and coordination tasks needed to support the Ethereum ecosystem. Various contributors to the Cat Herders are helping Ethereum core developers with their research. If this is something that interests you and you would want to participate, we encourage you to reach the existing members at [ECH Discord](https://discord.io/EthCatHerders).

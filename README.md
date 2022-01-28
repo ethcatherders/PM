@@ -1,12 +1,14 @@
-## All Ethereum Cat Herder Meetings
+# All Ethereum Cat Herder Meetings
 
-### Purpose
+## Purpose
+
 The Ethereum Cat Herder Meeting is a regularly-scheduled project management meeting intended to bring together experienced project managers to facilitate the [Ethereum all core devs process](https://github.com/ethereum/pm).
 
-### Issues
+## Issues
+
 If you have an issue you would like discussed and aren't sure of the best place to file it, feel free to use the [Issues tab of this repository](https://github.com/ethereum-cat-herders/PM/issues). Cat Herders will review it and bring it up in a meeting if needed.  
 
-### Previous Meetings
+## Previous Meetings
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
@@ -32,9 +34,9 @@ If you have an issue you would like discussed and aren't sure of the best place 
   23 | Tuesday, November 26, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/96) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20023.md) | [video](https://youtu.be/hh6yys7CZmc) |
   24 | Tuesday, December 10, 2019 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/99) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20024.md) | [video](https://youtu.be/WXQbGSRgBr0) |
   28 | Tuesday, February 18, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/109) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20028.md) | video |
-29 | Tuesday, March 17, 2020 14:00 UTC  | [agenda]() \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20029.md) | video |
-30 | Tuesday, March 31, 2020 14:00 UTC  | [agenda]() \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20030.md) | video 
-31 | Tuesday, April 14, 2020 14:00 UTC  | [agenda]() \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20031.md) | video 
+29 | Tuesday, March 17, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/112) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20029.md) | [video](https://www.youtube.com/watch?v=10ZzC74buM8) |
+30 | Tuesday, March 31, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/114) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20030.md) | [video](https://www.youtube.com/watch?v=iSTuXh7gnCg)
+31 | Tuesday, April 14, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/116) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20031.md) | [video](https://www.youtube.com/watch?v=6jtTJ9L5M2o)
 32 | Tuesday, April 28, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/119) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20032.md) | [video](https://youtu.be/iIG1rEIrmJg)
 33 | Tuesday, April 28, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/121) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20033.md) | [video](https://youtu.be/kGWMAiDlhDI)
 34 | Tuesday, May 26, 2020 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/123) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20034.md) | [video](https://www.youtube.com/watch?v=DWZe2Ma5y7I)
@@ -70,16 +72,30 @@ If you have an issue you would like discussed and aren't sure of the best place 
 68 | Tuesday, Sep 28, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/230) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20068.md) | [video](https://youtu.be/xx1TgBsNoB0)
 69 | Tuesday, Oct 12, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/236) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20069.md) | [video](https://youtu.be/oXdmwofWqwc)
 70 | Tuesday, Oct 28, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/242) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20070.md) | [video](https://youtu.be/XaDj6b9GuiA)
+71 | Tuesday, Nov 09, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/247) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20071.md) | [video](https://youtu.be/m2-3GVWu6E0)
+72 | Tuesday, Nov 23, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/249) \| notes | [video](https://youtu.be/Hyzj5XZwi9s)
+73 | Tuesday, Dec 07, 2021 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/250) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20073.md)  | [video](https://youtu.be/5wrplqG6V0w)
+74 | Tuesday, Dec 21, 2021 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/253) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20074.md)  | [video](https://www.youtube.com/watch?v=eGM5QA4HXYc)
+75 | Tuesday, Jan 4, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/258) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20075.md)  | [video](https://youtu.be/5FdVLopE9NU)
+76 | Tuesday, Jan 4, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/263) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20076.md)  | [video](https://youtu.be/v1G7jiTHpJ4)
 
-### Who Can Attend
-Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Discord](https://discord.gg/tzYmDmF).
+## Who Can Attend
 
-### Agenda Items
-Agendas are posted to https://github.com/ethereum-cat-herders/PM/issues. Anyone is welcome to add an item to the agenda as long as it follows these guidelines:
+Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Discord](https://discord.io/EthCatHerders).
+
+## Agenda Items
+
+Agendas are posted to <https://github.com/ethereum-cat-herders/PM/issues>. Anyone is welcome to add an item to the agenda as long as it follows these guidelines:
+
 - The topic is specific to Ethereum project management
 
-### Meeting Notes Template
+## Meeting Notes Template
+
 Meeting notes template is available [here](https://github.com/ethereum-cat-herders/PM/blob/master/Meeting_Notes_Template.md) for reference.
 
-### Who Manages the Meetings
+## Who Manages the Meetings
+
 Various contributors to the Cat Herders facilitate and record the meetings. The meetings are independent of any organization. Livestreaming instructions for the meeting are available [here](https://docs.google.com/document/d/1dF_Drs56ErV6wJgFmbzpdN-cINshKCsB61D92NS2JDg/edit).
+
+### Perma-archived Meetings
+The audio files of the Previous Meetings are stored permanently on [Permacast](https://permacast.net/#/podcasts/AyENHKvl57vNvoY0rXna4W9h01HirbljLD1mYnvGdEU).
