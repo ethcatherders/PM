@@ -10,7 +10,7 @@ At the moment ECH is responsible for writing notes of three different meetings t
 №  | Meeting                             | Day          | Time            |
 ---| ----------------------------------- | ------------ | --------------- |
 1  | Ethereum All Core Dev meeting       | Friday       |  1400 UTC       |
-2  | Ethereum 2.0 Implementers call      | Thursday     |  1400 UTC       |
+2  | Consensus Layer meetings            | Thursday     |  1400 UTC       |
 3  | Ethereum Cat Herders meetings       | Tuesday      |  1500 UTC       |
 4  | EIPIP meetings                      | Wednesday    |  1500 UTC       |
 5  | 1559 implementers meeting           | Thursday     |  Inactive       |   
@@ -27,8 +27,8 @@ If you are writing notes for any of the above-mentioned meetings on behalf of Ca
 * Update README file
 * Create a Pull Request to **submit notes within 72 hrs.** of meeting at respective PM repositories:
     * Ethereum [All Core Dev meeting](https://github.com/ethereum/pm/pulls)   
-    * Ethereum [2.0 Implementers call](https://github.com/ethereum/eth2.0-pm/pulls) 
-    * Ethereum [Cat Herders call](https://github.com/ethereum-cat-herders/PM/pulls)   
+    * Ethereum [Consensus Layer meetings](https://github.com/ethereum/pm/tree/master/Consensus-Layer-Meetings) 
+    * Ethereum [Cat Herders meetings](https://github.com/ethereum-cat-herders/PM/pulls)   
     * [EIPIP meetings](https://github.com/ethereum-cat-herders/EIPIP/pulls)
     * Ethereum [1559 Implementers meeting](https://github.com/ethereum/pm/pulls) 
 * **Share links** at [ECH Discord](https://discord.io/EthCatHerders), [Ethereum Reddit](https://www.reddit.com/r/ethereum/) and respective Discord channel.
