@@ -83,6 +83,7 @@ If you have an issue you would like discussed and aren't sure of the best place 
 79 | Tuesday, Mar 1, 2022 15.00 UTC   | [agenda](https://github.com/ethereum-cat-herders/PM/issues/270) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20079.md)  | [video](https://www.youtube.com/watch?v=fm3j_h47_ow)
 80 | Tuesday, March 15, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/274) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20080.md)  | [video](https://www.youtube.com/watch?v=B5Rg2qDYRtk&t=5s)
 81 | Tuesday, March 29, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/275) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20081.md)  | [video](https://www.youtube.com/watch?v=xNNw-CIrXZg)
+82 | Tuesday, April 12, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/278) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20082.md)  | [video](https://www.youtube.com/watch?v=9PzLdJqyU3I)
 
 
 ## Who Can Attend
