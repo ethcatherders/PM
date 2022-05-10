@@ -6,8 +6,14 @@
 ### Moderator: Pooja Ranjan
 ### Notes: darkfire-rain
 
-### Action Items:
-83.1 We may use radicle.xyz to backup any work made by developers that may be deleted due to the russia-ukraine conflict.
+---
+
+### DECISION/ACTION Items:
+
+**DECISION/ACTION ITEM 83.1**: We may use radicle.xyz to backup any work made by developers that may be deleted due to the russia-ukraine conflict.|
+
+---
+
 
 # Agenda
 
@@ -23,7 +29,7 @@
 
 sorry just a quick question so do we have to do the zk snark stuff to catch that or because i'm not that interested in in in privacy is that a requirement or or can you can you do it without doing that extra work to ensure your privacy does anyone know that if if no one knows that i'll pass but anyway just wonder if anyone knew that
 
-   **Pooja **[3:49](https://youtu.be/yaN8A_Rg4VE&t=229)
+   **Pooja** [3:49](https://youtu.be/yaN8A_Rg4VE&t=229)
 the top of their head okay i think on a high level what i understood was there were two lists one list where like people who are directly eligible they can go ahead and do it with their  wallet addresses but for people who are with the help of github repository they have to go by the gk smart that's my understanding but yeah it's better to look into the yeah all right  so that is there 
 
 ## 3.New initiatives
@@ -50,10 +56,10 @@ i'm making a note of whatever solutions you are suggesting here but  definitely 
 ### ECH website
 **Pooja**: the next item listed here is ech updates  the first one is ech website so as we know our website is back last month only slava and new contributor to ethereum cathedrals has made a simple request recently and the merge page is updated he added some additional resources to update the eip page now you can find all the shanghai proposed eips the cfi eip is listed over there like the eip the discussion link and other related resources that is available around those proposals it can be easily found on ethereum cathedral's website there are a couple of other updates for meetings and a few fixes for broken links i think there's a pull request open by gunny i might have to look into the conflict resolution over there and we'll merge it over there but after that it will be like www.ethereumcatherdust.com so that's on ease website the next one is ech engineering i don't see anyone from the engineering team right now but i'm aware that someone is looking into it jose here he is looking into ech engineering eip bot and eipv issues and we are trying to close issues there are there seems to be some duplicate issues and we are trying to close so the number does not look very good and  yeah if you have any further update per se please feel free to share
 
-Jose [14:29](https://youtu.be/yaN8A_Rg4VE&t=869)
+**Jose** [14:29](https://youtu.be/yaN8A_Rg4VE&t=869)
 yes the the most important of the update is that the issue 53 was closed and 12 single action issues were created which are more easily to attack and to direct the solution and this is maybe something that we need to to consider sometimes when the when the issues are posed are very general and very broad so some took the time and defined 12 precise single action issues and all the efforts are now focused on that 12 issues which are going to have a huge impact in the saving editor time and indeed the devote mode more robust
 
-Pooja: [15:30](https://youtu.be/yaN8A_Rg4VE&t=930)
+**Pooja**: [15:30](https://youtu.be/yaN8A_Rg4VE&t=930)
 that's right thank you so much for update and i know with the new process change which is expected six months to one year down the line we may be  making use of bot even more so  the work become easier for eap editors and people who are trying to document it for the first time like most of the work would be checked by the bots that's the idea here samuelson is adding issues like how we can improve the path so yeah now we hope to keep looking into these issues and improve our present working with the eip github repository we are still looking for a ruby dev we need a maintainer who can help us with looking into the eip github repository there is specific piece of code that needs  ruby to have expertise and we do not have anyone in the group it's not too long of a work but there are something definitely that we are looking to help with so if you're a ruby drive if you're listening to this call please reach out to us on ethereum catalyst discord 
 
 ### ECH Engineering
@@ -62,7 +68,7 @@ that's right thank you so much for update and i know with the new process change
 **George**: [16:57](https://youtu.be/yaN8A_Rg4VE&t=1017)
 yeah hey so pretty much for learn to earn we've been uha lot slower in terms of progress than expected but  things are wrapping up now so we have  both the  app for anyone to interact with  we have a few courses that are already created  thanks to stefan  and pooja and i believe there might be one or two more people that are helping out on that front and then in terms of  wrapping everything else up  we do have essentially the admin side we have like an admin application to actually upload all the all the content and the quizzes and courses that will be deployed today and pretty much the last remaining things are just the poep piece and just making sure everything is pretty much secure so
 
-**Pooja**: [18:09](https://youtu.be/yaN8A_Rg4VE&t=1017
+**Pooja**: [18:09](https://youtu.be/yaN8A_Rg4VE&t=1017)
 so yeah thank you for the update and yes as he was mentioning about the poor piece so we are looking for someone to look into creating and management for different quizzes we have kind of created a design for it that we can be using for different quizzes if you know or if you know someone who has this expertise or if you have this expertise please reach out now we are just trying to  look into this funnel piece to test the entire tab all right moving on the next 
 
 ### Cat blazers
@@ -70,10 +76,10 @@ so yeah thank you for the update and yes as he was mentioning about the poor pie
 
 **Pooja**: The next sub item listed here is cad blazes we have william shop on the call
 
-**William:[18:52](https://youtu.be/yaN8A_Rg4VE&t=1132)
+**William**:[18:52](https://youtu.be/yaN8A_Rg4VE&t=1132)
 so podcast has released two episodes since last time i was on  one about privacy and twitter seminars and another on decentralizing hardware in depth node with  paul from dab node  i pre i will be taking a hiatus this week i am interested in bringing it to a once every two week schedule like we originally discussed hoping i can try and maintain that cadence been involved in some other onboarding work was contacted through dms on twitter by one the colonel has wrapped up for now  and i feel like i'm missing something but i pretty much always feel that way anyway so there it is Also t we are running some costs right now like we've moved to zencaster for recording and i know the editor ck doof has  is paying for some tools i would appreciate if we could get reimbursed from the cat herders for that right now we're talking about minor amounts like i think the zencaster is maybe five dollars a month  the editing tool i'd have to ask him again that might be might be more like 20. we're definitely fine laying it out but i would just like to ask generally now if it's okay for the cat hurters to take the production costs and i'm not expecting a decision right now but just as a general question 
 
-**Pooja: [20:40](https://youtu.be/yaN8A_Rg4VE&t=1240)
+**Pooja**: [20:40](https://youtu.be/yaN8A_Rg4VE&t=1240)
 right on that i had a chat with ziggy roof last week and we are looking for a tool that can be helpful to like all kind of production thing here like i know we are making people and then there is this ech podcast so we looked into one tool suggested by him only and  we are thinking of giving it a try for one month we are not buying the subscription for one year but a month to month basis let's see how it works out for other tasks and yeah definitely it is being considered all right that's on cad leases on ech operations we had this new johannes meeting last week you can find the recording here i'll add it to the agenda so generally we try to reach out to different people of ethereum community if they are new and they want to join ethereum community with the cat herders either making a contribution to qatar's present tasks and activities or just to ethereum ecosystem in general we organize these meetings once a month reach out to us check out the events on ec hds card they will find  when the next meeting is planned and we'll try to help you make connections with whoever is the right person for whatever is your interest and if there is something from a catered existing task you want to contribute definitely you can let us know if there is any questions or anything that you would want to learn about ethereum ecosystem or whom you may reach out to i think that is one of the good meetings kind of office house which ethereum cathode is organized to engage with newcomers so join us the next one is eip insight so i have added the link to april's eap insight in the agenda you can check out the details but in chat in april we have received one eip that is moved to the final status that is eip2098 compact signature representation there are seven new eips of erc's category  they have been added to the repository as draft two eips are moved to stagnant due to longer inactivity and one eip has been resurrected and is available for review that is eap 1967 standard proxy storage slots and there was one eip which is in the which was in the last call because the last call ended on april 24th maybe we have to follow up with our other to make a pull request to mark it to the final and  there was one small non-normative change for one final eid i have started adding graphs for different categories of eips like you can find it with the core networking interface kind of eaps and that was a request from one of the user github users so it is available now as well as we also have the chats for eip proposed versus eap finalized that's informative graphs yes someone suggested that we should try to capture the information per category and then we will be able to see like how we are doing it it's kind of an evaluation of the eip process also like how much support we can increase to move proposals faster and talking about moving proposals faster i'm very happy to share this proposal eib4626 that we recorded a peep and eep chat with one of the co-authors just yesterday that proposal is of erc category and it made to final status in less than three months so if you are actively involved  talking about the proposal reaching out to team who can actually implement that proposal i think it's a good way for moving the proposal faster and this is not my point of view i think this is coming from the author's perspective that we discussed yesterday it's a good segment for people as i mentioned we did record an episode for eip4626 yesterday the recording for public will be available sometimes next week in the upcoming weeks we have planned for eip 1202 voting standard on may 23 and we are also trying to have a two more shanghai cfi eips eip3540 and eip3670 plan in early to meet me so please check out the peep and eep schedule that is available on cat hurdles project section 
 
 ### Meeting notes and Action items for ECH
@@ -105,11 +111,11 @@ yeah if you're able to remind me over the next couple of weeks i'd appreciate it
 generally  these things are captured on the meeting notes so i'd appreciate like just checking up the notes once a while for whatever meetings we are attending and that's how i try to keep myself updated and thank you so much william shaw for looking into all the funding requests happy to share that all the long pending fundings  bounty requests are closed we do not have any open request as of now so that's all from the items listed on the agenda anyone else has anything to bring up all right so we can probably end up this meeting thank you everyone for joining us today i hope to see you in two weeks thanks all
 
 ## Attendees:
-Tushar desale
-Pooja ranjan
-Brent allsop
-George hervey
-Santhosh
-Jose
-William schwab
-Texas farmer
+- Tushar desale
+- Pooja ranjan
+- Brent allsop
+- George hervey
+- Santhosh
+- Jose
+- William schwab
+- Texas farmer
