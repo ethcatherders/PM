@@ -47,7 +47,7 @@
 
 **Jose:** got it okay thank you
 
-**Pooja:** [well](https://www.youtube.com/watch?v=rV58BDFxh9Y&t=482 in fact that was a very good suggestion also william if you think we can maybe create an issue on that like what we are looking for then if someone reaches out to us on any forum instead of sending everyone to you you can maybe document an issue and we can send them to that issue and to collect information basic what we need kind Of
+**Pooja:** [well](https://www.youtube.com/watch?v=rV58BDFxh9Y&t=482) in fact that was a very good suggestion also william if you think we can maybe create an issue on that like what we are looking for then if someone reaches out to us on any forum instead of sending everyone to you you can maybe document an issue and we can send them to that issue and to collect information basic what we need kind Of
 
 **William:** [let](https://www.youtube.com/watch?v=rV58BDFxh9Y&t=504) me see writing good issues actually surprisingly intense act like you know it's not our time i'll see what i'm able to get up it's definitely good it's definitely a good idea I just hope i'd get around to it sometimes
 
