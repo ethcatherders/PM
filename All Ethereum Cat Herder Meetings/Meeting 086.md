@@ -83,9 +83,9 @@
 
 
 # Attendees
-Pooja
-Texas farmer
-Rory
-Jose
-Shubhangi
+* Pooja
+* Texas farmer
+* Rory
+* Jose
+* Shubhangi
 
