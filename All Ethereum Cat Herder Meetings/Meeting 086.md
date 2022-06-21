@@ -6,8 +6,11 @@
 ## [Video/Audio of the meeting](https://www.youtube.com/watch?v=rV58BDFxh9Y)
 
 # Action items
-86.1
-86.2
+
+Action Item | Description
+-|-
+86.1| William will create issue to explain what help we need on the GitHub backup.
+
 
 **Pooja:** [welcome](https://www.youtube.com/watch?v=rV58BDFxh9Y&t=0) to Ethereum cat herders meeting 86. we are having agenda on issue 293 on cat holders github pm repo before we get into the agenda we have one new joiner here rory sorry if you would like to maybe introduce yourself
 
