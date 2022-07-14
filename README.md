@@ -1,5 +1,7 @@
 # All Ethereum Cat Herder Meetings
 
+[![gitpoap badge](https://public-api.gitpoap.io/v1/repo/ethereum-cat-herders/PM/badge)](https://www.gitpoap.io/gh/ethereum-cat-herders/PM)
+
 ## Purpose
 
 The Ethereum Cat Herder Meeting is a regularly-scheduled project management meeting intended to bring together experienced project managers to facilitate the [Ethereum all core devs process](https://github.com/ethereum/pm).
