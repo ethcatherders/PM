@@ -88,8 +88,10 @@ If you have an issue you would like discussed and aren't sure of the best place 
 82 | Tuesday, April 12, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/278) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20082.md)  | [video](https://www.youtube.com/watch?v=9PzLdJqyU3I)
 83 | Tuesday, April 26, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/280) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20083.md)  | [video](https://youtu.be/yaN8A_Rg4VE)
 84 | Tuesday,May 10, 2022 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/284) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20084.md) | [video](https://www.youtube.com/watch?v=9PzLdJqyU3I)
-85 | Tuesday, May 24, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/287) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20085.md)  | [video](https://youtu.be/ZZZTU9aYmAY)
-86 | Tuesday, June 7, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/293) \| [notes]([All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20085.md](https://github.com/darkfire-rain/PM-1/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20086.md))  | [video](https://www.youtube.com/watch?v=rV58BDFxh9Y)
+85 | Tuesday, May 25, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/287) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20085.md)  | [video](https://youtu.be/ZZZTU9aYmAY)
+86 | Tuesday, May 25, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/293) \| [notes]([All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20085.md](https://github.com/darkfire-rain/PM-1/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20086.md))  | [video](https://www.youtube.com/watch?v=rV58BDFxh9Y)
+88 | Tuesday, July 05, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/298) \| [notes]([All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20085.md](https://github.com/darkfire-rain/PM-1/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20086.md))  | [video](https://www.youtube.com/watch?v=fYGDQAmSQTI)
+
 ## Who Can Attend
 
 Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Discord](https://discord.io/EthCatHerders).
