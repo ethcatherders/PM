@@ -1,5 +1,7 @@
 # All Ethereum Cat Herder Meetings
 
+[![gitpoap badge](https://public-api.gitpoap.io/v1/repo/ethereum-cat-herders/PM/badge)](https://www.gitpoap.io/gh/ethereum-cat-herders/PM)
+
 ## Purpose
 
 The Ethereum Cat Herder Meeting is a regularly-scheduled project management meeting intended to bring together experienced project managers to facilitate the [Ethereum all core devs process](https://github.com/ethereum/pm).
@@ -89,6 +91,7 @@ If you have an issue you would like discussed and aren't sure of the best place 
 85 | Tuesday, May 25, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/287) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20085.md)  | [video](https://youtu.be/ZZZTU9aYmAY)
 86 | Tuesday, May 25, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/293) \| [notes]([All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20085.md](https://github.com/darkfire-rain/PM-1/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20086.md))  | [video](https://www.youtube.com/watch?v=rV58BDFxh9Y)
 88 | Tuesday, July 05, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/298) \| [notes]([All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20085.md](https://github.com/darkfire-rain/PM-1/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20086.md))  | [video](https://www.youtube.com/watch?v=fYGDQAmSQTI)
+
 ## Who Can Attend
 
 Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Discord](https://discord.io/EthCatHerders).
