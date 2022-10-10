@@ -10,7 +10,20 @@
 
 ## COMMUNITY PARTICIPATION 
 
-**Nodes Upgrade**: If you are running node either on execution layer or on client layer, or you are planning or you are already a validator, please upgrade your node. You will find the latest version of your client in the EF blog post, so check out the blog post and upgrade your nodes accordingly. 
+**Proposed Change in Core EIP Process**: If interested in participating, you can find the discussion link [here](https://ethereum-magicians.org/t/core-eips-in-an-executable-spec-world/8640)
+**Ethereum events**: If interested in sharing your ethereum related event, please reach out to us on discord, and we can share it in the next ECH meeting. 
+**EIP Authors**: If interested in asking questions or learning more about the EIP editing process, please join us at our EIP editing office hours. The zoom link is in the ECH Discord. 
+**Learn2Earn** : If you want to learn more about EIPs and get GitPOAP, you can try the Learn2Earn app from ECH [here](https://l2e.ethereumcatherders.com/) 
+**Podcasts** : You can find informational ECH podcasts links on the Ethereum Cat Herders website.
+
+## Action Items
+
+1. ECH may try Huddle 01 in a future ECH meeting to expolore decentralized Zoom options. 
+2. ECH will create a dedicated Discord channel to discuss funding opportunities
+3. ECH will create a dedicated Discord channel to discuss POS related issues. 
+4. ECH website may have a Shanghai page dedicated to the Shanghai upgrade soon. 
+5. Pooja will look into creating an information sharing platform for EIP editors and the ECH engineering team to discuss who is working on which part of the EIP bot and EIP V. 
+
 
 ---
 
@@ -154,7 +167,7 @@ All right, the next one is Learn2Earn. I'm pretty excited to hear more about Lea
 I was trying to unmute, yeah so excited that we're actually launching Learn2Earn now we have the subdomain for Learn to Earn so if you go to l2e dot ethereum.com you could check out the app start learning and if you you know pass the quiz you actually get a POAP, so um please uh you know try it out give us your feedback we'll be sharing a feedback form later on today, which I guess we could just share on the Discord and it'll also be part of the website as well as an update, so yeah hopefully you guys enjoy it and really looking forward to the feedback so.
 
 **Pooja** [25:38](https://youtu.be/5qIbN8SKGq4?t=1538)
-Thank you George, so just for people who are listening to this call, l2e. ethereumcatherders.com so please go ahead and check out the page and share your feedback we have limited link for POAP right now so if we hit the maximum level we'll try to refill it we are in touch with POAP team to get upload more links there yeah right now it's an early testing stages we would be accepting your feedback, we do have a dedicated channel on Ethereum Cat Herders Discord, is Learn2Earn you can share it there and as George mentioned we will be soon releasing a feedback form which will be integrated on the website so you can share your feedback about the project and if any feature you would like to be added or you think something is not working properly. This is our first project from Ethereum Cat Herders all together it's the first Community project from our end so we are super excited to share this news and looking forward to your support.
+Thank you George, so just for people who are listening to this call, l2e.ethereumcatherders.com so please go ahead and check out the page and share your feedback we have limited link for POAP right now so if we hit the maximum level we'll try to refill it we are in touch with POAP team to get upload more links there yeah right now it's an early testing stages we would be accepting your feedback, we do have a dedicated channel on Ethereum Cat Herders Discord, is Learn2Earn you can share it there and as George mentioned we will be soon releasing a feedback form which will be integrated on the website so you can share your feedback about the project and if any feature you would like to be added or you think something is not working properly. This is our first project from Ethereum Cat Herders all together it's the first Community project from our end so we are super excited to share this news and looking forward to your support.
 
 **George Harvey** [26:49](https://youtu.be/5qIbN8SKGq4?t=1609)
 Yeah and everybody in Discord is getting the alpha so yeah...
