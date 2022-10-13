@@ -11,9 +11,13 @@
 ## COMMUNITY PARTICIPATION 
 
 **Proposed Change in Core EIP Process**: If interested in participating, you can find the discussion link [here](https://ethereum-magicians.org/t/core-eips-in-an-executable-spec-world/8640)
+
 **Ethereum events**: If interested in sharing your ethereum related event, please reach out to us on discord, and we can share it in the next ECH meeting. 
+
 **EIP Authors**: If interested in asking questions or learning more about the EIP editing process, please join us at our EIP editing office hours. The zoom link is in the ECH Discord. 
+
 **Learn2Earn** : If you want to learn more about EIPs and get GitPOAP, you can try the Learn2Earn app from ECH [here](https://l2e.ethereumcatherders.com/) 
+
 **Podcasts** : You can find informational ECH podcasts links on the Ethereum Cat Herders website.
 
 ## Action Items
@@ -230,7 +234,18 @@ That's on meeting notes next one I have mentioned here is oh looks like it's a r
 **Pooja** [36:42](https://youtu.be/5qIbN8SKGq4?t=2202)
 Anyone has any question comment so far? all right I think we are on the last segment that is meeting notes from the last meeting which I will share, ECH starts a Social account that I did and will follow up with those people for timely submission of notes. Please people whoever are documenting notes please try to submit your notes in three to five days, three days are always better but five in case of complicated and longer meetings, and I think that's all from the items listed here, if anyone has anything to share or bring up or maybe suggest for next meeting? All right in that case you can also leave comment, thoughts in general channel I will try to pick it up from there and add it to the agenda for the next meeting. Thank you everyone for joining us today, see you in two weeks. Have a good one everyone. 
 
+## Attendees
+-Pooja
+-zk doof
+-Ramit Agarwal
+-JA
+-Ambesh Shukla
+-George Harvey
+-Santosh
+-Yashvendra
 
+## Next Meeting Date
+October 11, 2022 at 15:00 UTC
 
 
 
