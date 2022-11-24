@@ -24,6 +24,8 @@ If you are writing notes for any of the above-mentioned meetings on behalf of Ca
 * **Show up** in the meeting as a Cat Herder representative.
 * **Transcribe** as much as possible to avoid missing out on any discussion.
 * Add zoom chat & attendees list
+* **For the Consensus Layer Meeting**  On creating the meeting notes title. Make sure the title is all lowercase, followed by an underscore and the meeting     note number. For example, if you're taking notes for Consensus Layer Meeting 87. The notes' title should be "**call_087**"
+* **All Core Dev** On creating the meeting notes title. Make sure the title's first letter is uppercase, followed by a space and the meeting note number. For example, if you're taking notes for All Core Dev 77. The notes' title should be "**Meeting 77**"
 * Update README file
 * Create a Pull Request to **submit notes within 72 hrs.** of meeting at respective PM repositories:
     * Ethereum [All Core Dev meeting](https://github.com/ethereum/pm/pulls)   
