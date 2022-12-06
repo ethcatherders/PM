@@ -6,7 +6,7 @@
 ### Notes: HenryJK4
 ### Summary: 
 
-### Moderator: 
+### Moderator: Pooja Ranjan
 **Pooja Ranjan:** 
 * welcome to ethereum cat herders meeting  #97. I have shared agenda and chat. The first item that it says here's Ethereum network upgrade. 
 We have two more new joiner today. Henry and Elif. Henry and Elif to introduce them selves.
