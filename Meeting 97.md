@@ -4,7 +4,7 @@
 ### [Audio/Video of the meeting:](https://www.youtube.com/watch?v=cdEcRObZTUY)
 ### Moderator: Pooja Ranjan
 ### Notes: HenryJK4
-### Summary: Ethereum Cat Herders Meeting #97 Notes
+### Summary: 
 
 ### Moderator: 
 **Pooja Ranjan:** 
