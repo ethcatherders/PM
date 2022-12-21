@@ -97,7 +97,7 @@ If you have an issue you would like discussed and aren't sure of the best place 
 91 | Tuesday, August 16, 2022 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/309) \| [notes](https://github.com/darkfire-rain/PM-1/edit/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20091.md)  | [video](https://www.youtube.com/watch?v=Nw0Q9UL3faI)
 92 |  Tuesday  30 September 2022 at 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/310) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20092.md)  | [video](https://www.youtube.com/watch?v=rB8nytASUSQ)
 93 |  Tuesday  Sep 13, 2022, at 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/316) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20093.md)  | [video](https://youtu.be/Oy0rMM38MWY)
-
+97 |  Tuesday  Sep 13, 2022, at 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/323) \| [notes](https://github.com/ethereum-cat-herders/PM/pull/329)  | [video](https://www.youtube.com/watch?v=cdEcRObZTUY)
 
 ## Who Can Attend
 
