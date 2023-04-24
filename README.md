@@ -105,7 +105,10 @@ If you have an issue you would like discussed and aren't sure of the best place 
 100 | Tuesday, January 3, 2023 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/332) \| [notes](All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20100.md)  | [video](https://youtube.com/watch?v=a9oZutWIzSY&si=EnSIkaIECMiOmarE)
 101 | Tuesday, January 17, 2023 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/332) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20101.md) | [video](https://youtube.com/watch?v=a9oZutWIzSY&si=EnSIkaIECMiOmarE)
 102 | Tuesday, January 31, 2023 15.00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/339) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20102.md) | [video](https://www.youtube.com/watch?v=a29d95k3kdc)
-
+103 | Feb 14, 2023 at 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/341) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20103.md) | [video](https://youtu.be/WzugDzArQYI)
+104 | March 14, 2023 at 15:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/343) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20104.md) | [video](https://youtu.be/U-a9ZKphQ5Y)
+105 | March 28, 2023 at 15:00 UTC | [agenda](https://github.com/ethereum-cat-herders/PM/issues/344) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20105.md) | [video](https://youtu.be/AzTR-iwWfVw)
+106 | April 11, 2023 at 14:00 UTC | [agenda](https://github.com/ethereum-cat-herders/PM/issues/345) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20106.md) | [video](https://youtu.be/j1l24fWLNrg)
 
 ## Who Can Attend
 
