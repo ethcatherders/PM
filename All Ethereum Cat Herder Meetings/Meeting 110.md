@@ -2,6 +2,7 @@
 ### Meeting Date/Time: June 7, 2023
 ### Meeting Duration:  23.46 mins
 ### Moderator: Pooja Ranjan
+### Notes: Darkfire_rain
 ### [GitHub Agenda](https://github.com/ethereum-cat-herders/PM/issues/355)
 ### [Audio Video of the Meeting](https://www.youtube.com/watch?v=bzmPyRq-8rQ)
 ### Next Meeting Date/Time: Thursday, 8th June at 1400 UTC
