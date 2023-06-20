@@ -39,11 +39,13 @@ EIP #5656 MCOPY, memory copying instruction EIP #5920 pay opcode and  EIP #7069 
 
 **Pooja**: Moving on to the next item new initiative and associations um we are hoping to support obviously the protocol development team and um supporting with providing technical assistance to this uh the vertical tree implementers, meeting to the EOF meeting and we are hoping to have support there is EPF Ethereum Protocol Fellowship as well. Um, as it will progress I hope to provide updates time to time. I have updated access on ECH discord and medium um trying to take a look at the Twitter. I will update accesses over there as well.  We are also planning to start like you know contributors to send weekly tweets or repost on  social media to increase reach. Um, as I mentioned earlier, I do not see Santosh on the call so I do not have much updates on that hopefully we'll get more in the next meeting. I don't know if anyone has any new idea for the community engagement like last week we invited a project to share about the project and how they can be helpful to Ethereum Community. So, I want to keep this option open for any project or  application listening to this call if they are interested to share about their project to maybe increase awareness. Please reach out to us on Cat Herders Discord and we'll try to include that on the agenda. Similarly, there is this ERC rough meeting ERC ref group has started a meeting called all ERC dev. Um, that is also a good place to talk about ERC and the project that you are working on. And the recording of these meetings all ERC  meeting can also be found on Ethereum Catheters YouTube. Yeah, anyone from the group would like to share anything new if you have any thoughts.  It's okay, if there isn't any yeah and we can always collect thoughts from the Discord Channel.
 
-# 5.
+# 5.  Review of outstanding action items from previous ECH meetings
 
 **Pooja:** The last item for today is review of outstanding action items from the previous ECH meeting. I see action item section is not updated, however, this seems more like on updates side. So, I think we should be good but uh I would request users documenting node please add section for any open action item or at least the summary of the meeting that is very helpful for anyone following notes. That's all from the agenda listed here today. Anyone has anything new to share and discuss. All right, that kind of concludes our call today. Thank you for joining us. I hope to see you in two weeks. Have a good one everyone.
  
 # Attendees
 * Pooja Ranjan
 * Herman (ariutokintumi.eth)
+* William Schwab
+* George H.
 
