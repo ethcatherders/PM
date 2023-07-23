@@ -2,7 +2,7 @@
 ### Meeting Date/Time: July 18, 2023 at 14:00 UTC 
 ### Meeting Duration: 0.5 hour
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/360)
-### [Audio/Video of the meeting]([https://youtu.be/Be7mojkj6RE))
+### [Audio/Video of the meeting](https://youtu.be/Be7mojkj6RE)
 ### Moderator: Pooja Ranjan
 ### Notes: Alen(Santhosh)
 
