@@ -1,5 +1,5 @@
 # Ethereum Cat Herder Meeting # 119  Notes
-### Meeting Date/Time: Oct 10, 2023 at 13:00 UTC [
+### Meeting Date/Time: Oct 10, 2023 at 13:00 UTC 
 ### Meeting Duration: 0.5 hour
 ### [GitHub Agenda Page](https://github.com/ethereum-cat-herders/PM/issues/373)
 ### [Audio/Video of the meeting](https://youtu.be/-OCoSgH1pnc)
