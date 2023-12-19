@@ -122,6 +122,8 @@ If you have an issue you would like discussed and aren't sure of the best place 
 117 | September 12, 2023 at 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/370 ) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20117.md) | [video](https://youtu.be/NqNLpBPnh90)
 118 | September 26, 2023 at 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/372 ) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20118.md) | [video](https://youtu.be/QJd3aqKHyjo)
 120 | October 26, 2023 at 13:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/375) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20120.md) | [video](https://www.youtube.com/watch?v=u3cJoJhlqdE)
+121 |    | |  | 
+122 | November 21, 2023 at 13:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/381) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20122.md) | [video](https://www.youtube.com/watch?v=SmrA5dS-UlY)
 
 ## Who Can Attend
 
