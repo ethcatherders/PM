@@ -119,12 +119,12 @@ If you have an issue you would like discussed and aren't sure of the best place 
 114 | August 1, 2023 at 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/364) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20114.md) | [video](https://www.youtube.com/watch?v=iWtC9wfJ-7M)
 115 | August 15, 2023 at 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/367 ) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20115.md) | [video](https://www.youtube.com/watch?v=YSv4fT24G9I)
 116 | August 29, 2023 at 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/369 ) \| [notes] | [video](https://youtu.be/phzaUJWHVEc)
-117 | September 12, 2023 at 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/370 ) \| [notes] | [video](https://youtu.be/GriLSj37RdI)
+117 | September 12, 2023 at 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/370 ) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20117.md) | [video](https://youtu.be/NqNLpBPnh90)
 118 | September 26, 2023 at 14:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/372 ) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20118.md) | [video](https://youtu.be/QJd3aqKHyjo)
 119 | Oct 10, 2023 at 13:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/373 ) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20119.md) | [video](https://youtu.be/-OCoSgH1pnc)
 120 | October 26, 2023 at 13:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/375) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20120.md) | [video](https://www.youtube.com/watch?v=u3cJoJhlqdE)
 121 | October 26, 2023 at 13:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/376) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20121.md) | [video](https://youtu.be/ijX6Sl6igNI)
-
+122 | November 21, 2023 at 13:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/381) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20122.md) | [video](https://www.youtube.com/watch?v=SmrA5dS-UlY)
 
 ## Who Can Attend
 
