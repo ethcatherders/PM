@@ -125,7 +125,7 @@ If you have an issue you would like discussed and aren't sure of the best place 
 120 | October 26, 2023 at 13:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/375) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20120.md) | [video](https://www.youtube.com/watch?v=u3cJoJhlqdE)
 121 | October 26, 2023 at 13:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/376) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20121.md) | [video](https://youtu.be/ijX6Sl6igNI)
 122 | November 21, 2023 at 13:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/381) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20122.md) | [video](https://www.youtube.com/watch?v=SmrA5dS-UlY)
-
+123 | December 19, 2023 at 13:00 UTC  | [agenda](https://github.com/ethereum-cat-herders/PM/issues/382) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20123.md) | [video](https://www.youtube.com/watch?v=gulaktRAf6U)
 ## Who Can Attend
 
 Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Discord](https://discord.io/EthCatHerders).
