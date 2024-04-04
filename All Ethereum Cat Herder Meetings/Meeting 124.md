@@ -1,9 +1,9 @@
 # ETHEREUM CAT HERDERS MEETING #124
 
-### Meeting Date/Time: Dec 19, 2023 at 16:00 UTC
+### Meeting Date/Time: January 16, 2024 at 16:00 UTC
 ### Meeting Duration:  37 mins
 ### Moderator: Pooja Ranjan
-### [GitHub Agenda](https://github.com/ethereum-cat-herders/PM/issues/382 )
+### [GitHub Agenda](https://github.com/ethcatherders/PM/issues/389)
 ### [ Audio Video of the Meeting](https://www.youtube.com/watch?v=gulaktRAf6U)
 
 ### Notes: Metago
