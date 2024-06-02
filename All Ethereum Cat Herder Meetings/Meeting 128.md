@@ -13,11 +13,7 @@ ___
 | S No| Agenda Item| Summary |
 | -------- | -------- | -------- |
 | 128.1    | ECH Update|Focuses on contributions by different individuals supporting education and ecosystem growth in the Ethereum community. |
-|128.2| Q1 Report and Q2 Roadmap:|Upcoming publication with insights into Ethereum Cat Herders’ activities.|
-|   | | Celebrated five years of participation in the Ethereum community.|
-|  |  | Mentioned the Learn to Earn program.|
-| || | Live stream during the Dencun upgrade.|
-| | | Highlights initiatives and tasks.|
+|128.2| Q1 Report and Q2 Roadmap:|Upcoming publication with insights into Ethereum Cat Herders’ activities. Celebrated five years of participation in the Ethereum community. Mentions the Learn to Earn program. Live stream during the Dencun upgrade. Highlights initiatives and tasks.|
 |128.3|Protocol and Application Research| Discusses ongoing research in the Ethereum ecosystem.|
 |128.4 | Events, Fellowships, and Hackathons|Opportunities for interested contributors.|
 |128.5|Ethereum Network Upgrades |Recent completion of the Dencun Upgrade.|

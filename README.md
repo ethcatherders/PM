@@ -130,6 +130,9 @@ If you have an issue you would like discussed and aren't sure of the best place 
 125 | January 30, 2024 at 14:00 UTC  | [agenda](https://github.com/ethcatherders/PM/issues/390) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20125.md) | [video](https://www.youtube.com/watch?v=267KFfxXBW4)
 126 | Feb 13, 2024 at 16:00 UTC  | [agenda](https://github.com/ethcatherders/PM/issues/392) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20126.md) | [video](https://youtu.be/qbrV8CP8Ssc)
 128 | March 26, 2024 at 16:00 UTC  | [agenda](https://github.com/ethcatherders/PM/issues/398) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20128.md) | [video](https://youtu.be/fOpXBAhkkRs)
+129 | April 23, 2024 at 14:00 UTC   | [agenda](https://github.com/ethcatherders/PM/issues/399) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20129.md) | [video](https://youtu.be/XZVgwDO-KFU)
+130 | May 7, 2024 at 14:00 UTC   | [agenda](https://github.com/ethcatherders/PM/issues/401) \| [notes](https://github.com/ethereum-cat-herders/PM/blob/master/All%20Ethereum%20Cat%20Herder%20Meetings/Meeting%20130.md) | [video](https://youtu.be/TjBqaxQ-6sU)
+
 ## Who Can Attend
 
 Ethereum Cat Herders or Project Managers from around the Ethereum Community. If you would like to participate, please reach out to the Cat Herders community on [Discord](https://discord.io/EthCatHerders).
